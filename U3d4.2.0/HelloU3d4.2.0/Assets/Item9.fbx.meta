@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: fc597ed72b645dd44a30b9de29cc48c5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group1
+    100002: //RootNode
+    100004: joint1
+    100006: joint10
+    100008: joint100
+    100010: joint101
+    100012: joint102
+    100014: joint103
+    100016: joint104
+    100018: joint105
+    100020: joint106
+    100022: joint107
+    100024: joint108
+    100026: joint109
+    100028: joint11
+    100030: joint110
+    100032: joint111
+    100034: joint112
+    100036: joint113
+    100038: joint114
+    100040: joint115
+    100042: joint116
+    100044: joint117
+    100046: joint118
+    100048: joint119
+    100050: joint12
+    100052: joint120
+    100054: joint121
+    100056: joint122
+    100058: joint123
+    100060: joint124
+    100062: joint125
+    100064: joint126
+    100066: joint127
+    100068: joint13
+    100070: joint14
+    100072: joint15
+    100074: joint16
+    100076: joint17
+    100078: joint18
+    100080: joint19
+    100082: joint2
+    100084: joint20
+    100086: joint21
+    100088: joint22
+    100090: joint23
+    100092: joint24
+    100094: joint25
+    100096: joint26
+    100098: joint27
+    100100: joint28
+    100102: joint29
+    100104: joint3
+    100106: joint30
+    100108: joint31
+    100110: joint32
+    100112: joint33
+    100114: joint34
+    100116: joint35
+    100118: joint36
+    100120: joint37
+    100122: joint38
+    100124: joint39
+    100126: joint4
+    100128: joint40
+    100130: joint41
+    100132: joint42
+    100134: joint43
+    100136: joint44
+    100138: joint45
+    100140: joint46
+    100142: joint47
+    100144: joint47 1
+    100146: joint47 2
+    100148: joint47 3
+    100150: joint48
+    100152: joint48 1
+    100154: joint48 2
+    100156: joint48 3
+    100158: joint49
+    100160: joint5
+    100162: joint50
+    100164: joint51
+    100166: joint52
+    100168: joint53
+    100170: joint53 1
+    100172: joint53 2
+    100174: joint53 3
+    100176: joint54
+    100178: joint54 1
+    100180: joint54 2
+    100182: joint54 3
+    100184: joint55
+    100186: joint56
+    100188: joint57
+    100190: joint58
+    100192: joint59
+    100194: joint6
+    100196: joint60
+    100198: joint61
+    100200: joint62
+    100202: joint63
+    100204: joint64
+    100206: joint65
+    100208: joint66
+    100210: joint67
+    100212: joint68
+    100214: joint69
+    100216: joint7
+    100218: joint70
+    100220: joint71
+    100222: joint72
+    100224: joint73
+    100226: joint74
+    100228: joint75
+    100230: joint76
+    100232: joint77
+    100234: joint78
+    100236: joint79
+    100238: joint8
+    100240: joint80
+    100242: joint81
+    100244: joint82
+    100246: joint83
+    100248: joint84
+    100250: joint85
+    100252: joint86
+    100254: joint87
+    100256: joint88
+    100258: joint89
+    100260: joint9
+    100262: joint90
+    100264: joint91
+    100266: joint92
+    100268: joint93
+    100270: joint94
+    100272: joint95
+    100274: joint96
+    100276: joint97
+    100278: joint98
+    100280: joint99
+    100282: Long09
+    400000: group1
+    400002: //RootNode
+    400004: joint1
+    400006: joint10
+    400008: joint100
+    400010: joint101
+    400012: joint102
+    400014: joint103
+    400016: joint104
+    400018: joint105
+    400020: joint106
+    400022: joint107
+    400024: joint108
+    400026: joint109
+    400028: joint11
+    400030: joint110
+    400032: joint111
+    400034: joint112
+    400036: joint113
+    400038: joint114
+    400040: joint115
+    400042: joint116
+    400044: joint117
+    400046: joint118
+    400048: joint119
+    400050: joint12
+    400052: joint120
+    400054: joint121
+    400056: joint122
+    400058: joint123
+    400060: joint124
+    400062: joint125
+    400064: joint126
+    400066: joint127
+    400068: joint13
+    400070: joint14
+    400072: joint15
+    400074: joint16
+    400076: joint17
+    400078: joint18
+    400080: joint19
+    400082: joint2
+    400084: joint20
+    400086: joint21
+    400088: joint22
+    400090: joint23
+    400092: joint24
+    400094: joint25
+    400096: joint26
+    400098: joint27
+    400100: joint28
+    400102: joint29
+    400104: joint3
+    400106: joint30
+    400108: joint31
+    400110: joint32
+    400112: joint33
+    400114: joint34
+    400116: joint35
+    400118: joint36
+    400120: joint37
+    400122: joint38
+    400124: joint39
+    400126: joint4
+    400128: joint40
+    400130: joint41
+    400132: joint42
+    400134: joint43
+    400136: joint44
+    400138: joint45
+    400140: joint46
+    400142: joint47
+    400144: joint47 1
+    400146: joint47 2
+    400148: joint47 3
+    400150: joint48
+    400152: joint48 1
+    400154: joint48 2
+    400156: joint48 3
+    400158: joint49
+    400160: joint5
+    400162: joint50
+    400164: joint51
+    400166: joint52
+    400168: joint53
+    400170: joint53 1
+    400172: joint53 2
+    400174: joint53 3
+    400176: joint54
+    400178: joint54 1
+    400180: joint54 2
+    400182: joint54 3
+    400184: joint55
+    400186: joint56
+    400188: joint57
+    400190: joint58
+    400192: joint59
+    400194: joint6
+    400196: joint60
+    400198: joint61
+    400200: joint62
+    400202: joint63
+    400204: joint64
+    400206: joint65
+    400208: joint66
+    400210: joint67
+    400212: joint68
+    400214: joint69
+    400216: joint7
+    400218: joint70
+    400220: joint71
+    400222: joint72
+    400224: joint73
+    400226: joint74
+    400228: joint75
+    400230: joint76
+    400232: joint77
+    400234: joint78
+    400236: joint79
+    400238: joint8
+    400240: joint80
+    400242: joint81
+    400244: joint82
+    400246: joint83
+    400248: joint84
+    400250: joint85
+    400252: joint86
+    400254: joint87
+    400256: joint88
+    400258: joint89
+    400260: joint9
+    400262: joint90
+    400264: joint91
+    400266: joint92
+    400268: joint93
+    400270: joint94
+    400272: joint95
+    400274: joint96
+    400276: joint97
+    400278: joint98
+    400280: joint99
+    400282: Long09
+    4300000: Long09
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Long09
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

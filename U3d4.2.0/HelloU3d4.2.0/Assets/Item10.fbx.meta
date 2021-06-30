@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 6ebf2e5a540832b4fae6ca72d059f1f6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Long10_ring:group1
+    100004: Long10_ring:joint1
+    100006: Long10_ring:joint10
+    100008: Long10_ring:joint11
+    100010: Long10_ring:joint12
+    100012: Long10_ring:joint13
+    100014: Long10_ring:joint14
+    100016: Long10_ring:joint15
+    100018: Long10_ring:joint16
+    100020: Long10_ring:joint17
+    100022: Long10_ring:joint18
+    100024: Long10_ring:joint19
+    100026: Long10_ring:joint2
+    100028: Long10_ring:joint20
+    100030: Long10_ring:joint21
+    100032: Long10_ring:joint22
+    100034: Long10_ring:joint23
+    100036: Long10_ring:joint24
+    100038: Long10_ring:joint25
+    100040: Long10_ring:joint26
+    100042: Long10_ring:joint27
+    100044: Long10_ring:joint28
+    100046: Long10_ring:joint29
+    100048: Long10_ring:joint3
+    100050: Long10_ring:joint30
+    100052: Long10_ring:joint31
+    100054: Long10_ring:joint32
+    100056: Long10_ring:joint32 1
+    100058: Long10_ring:joint33
+    100060: Long10_ring:joint33 1
+    100062: Long10_ring:joint34
+    100064: Long10_ring:joint34 1
+    100066: Long10_ring:joint35
+    100068: Long10_ring:joint35 1
+    100070: Long10_ring:joint36
+    100072: Long10_ring:joint37
+    100074: Long10_ring:joint38
+    100076: Long10_ring:joint38 1
+    100078: Long10_ring:joint38 2
+    100080: Long10_ring:joint39
+    100082: Long10_ring:joint39 1
+    100084: Long10_ring:joint39 2
+    100086: Long10_ring:joint4
+    100088: Long10_ring:joint40
+    100090: Long10_ring:joint40 1
+    100092: Long10_ring:joint40 2
+    100094: Long10_ring:joint41
+    100096: Long10_ring:joint42
+    100098: Long10_ring:joint43
+    100100: Long10_ring:joint44
+    100102: Long10_ring:joint45
+    100104: Long10_ring:joint46
+    100106: Long10_ring:joint47
+    100108: Long10_ring:joint48
+    100110: Long10_ring:joint49
+    100112: Long10_ring:joint5
+    100114: Long10_ring:joint50
+    100116: Long10_ring:joint51
+    100118: Long10_ring:joint52
+    100120: Long10_ring:joint53
+    100122: Long10_ring:joint54
+    100124: Long10_ring:joint55
+    100126: Long10_ring:joint55 1
+    100128: Long10_ring:joint55 2
+    100130: Long10_ring:joint56
+    100132: Long10_ring:joint56 1
+    100134: Long10_ring:joint56 2
+    100136: Long10_ring:joint57
+    100138: Long10_ring:joint57 1
+    100140: Long10_ring:joint57 2
+    100142: Long10_ring:joint58
+    100144: Long10_ring:joint59
+    100146: Long10_ring:joint6
+    100148: Long10_ring:joint60
+    100150: Long10_ring:joint61
+    100152: Long10_ring:joint62
+    100154: Long10_ring:joint63
+    100156: Long10_ring:joint64
+    100158: Long10_ring:joint65
+    100160: Long10_ring:joint66
+    100162: Long10_ring:joint67
+    100164: Long10_ring:joint68
+    100166: Long10_ring:joint69
+    100168: Long10_ring:joint7
+    100170: Long10_ring:joint70
+    100172: Long10_ring:joint71
+    100174: Long10_ring:joint72
+    100176: Long10_ring:joint73
+    100178: Long10_ring:joint74
+    100180: Long10_ring:joint75
+    100182: Long10_ring:joint76
+    100184: Long10_ring:joint77
+    100186: Long10_ring:joint78
+    100188: Long10_ring:joint79
+    100190: Long10_ring:joint8
+    100192: Long10_ring:joint80
+    100194: Long10_ring:joint81
+    100196: Long10_ring:joint82
+    100198: Long10_ring:joint83
+    100200: Long10_ring:joint84
+    100202: Long10_ring:joint85
+    100204: Long10_ring:joint86
+    100206: Long10_ring:joint87
+    100208: Long10_ring:joint88
+    100210: Long10_ring:joint89
+    100212: Long10_ring:joint9
+    100214: Long10_ring:joint90
+    100216: Long10_ring:Long10
+    400000: //RootNode
+    400002: Long10_ring:group1
+    400004: Long10_ring:joint1
+    400006: Long10_ring:joint10
+    400008: Long10_ring:joint11
+    400010: Long10_ring:joint12
+    400012: Long10_ring:joint13
+    400014: Long10_ring:joint14
+    400016: Long10_ring:joint15
+    400018: Long10_ring:joint16
+    400020: Long10_ring:joint17
+    400022: Long10_ring:joint18
+    400024: Long10_ring:joint19
+    400026: Long10_ring:joint2
+    400028: Long10_ring:joint20
+    400030: Long10_ring:joint21
+    400032: Long10_ring:joint22
+    400034: Long10_ring:joint23
+    400036: Long10_ring:joint24
+    400038: Long10_ring:joint25
+    400040: Long10_ring:joint26
+    400042: Long10_ring:joint27
+    400044: Long10_ring:joint28
+    400046: Long10_ring:joint29
+    400048: Long10_ring:joint3
+    400050: Long10_ring:joint30
+    400052: Long10_ring:joint31
+    400054: Long10_ring:joint32
+    400056: Long10_ring:joint32 1
+    400058: Long10_ring:joint33
+    400060: Long10_ring:joint33 1
+    400062: Long10_ring:joint34
+    400064: Long10_ring:joint34 1
+    400066: Long10_ring:joint35
+    400068: Long10_ring:joint35 1
+    400070: Long10_ring:joint36
+    400072: Long10_ring:joint37
+    400074: Long10_ring:joint38
+    400076: Long10_ring:joint38 1
+    400078: Long10_ring:joint38 2
+    400080: Long10_ring:joint39
+    400082: Long10_ring:joint39 1
+    400084: Long10_ring:joint39 2
+    400086: Long10_ring:joint4
+    400088: Long10_ring:joint40
+    400090: Long10_ring:joint40 1
+    400092: Long10_ring:joint40 2
+    400094: Long10_ring:joint41
+    400096: Long10_ring:joint42
+    400098: Long10_ring:joint43
+    400100: Long10_ring:joint44
+    400102: Long10_ring:joint45
+    400104: Long10_ring:joint46
+    400106: Long10_ring:joint47
+    400108: Long10_ring:joint48
+    400110: Long10_ring:joint49
+    400112: Long10_ring:joint5
+    400114: Long10_ring:joint50
+    400116: Long10_ring:joint51
+    400118: Long10_ring:joint52
+    400120: Long10_ring:joint53
+    400122: Long10_ring:joint54
+    400124: Long10_ring:joint55
+    400126: Long10_ring:joint55 1
+    400128: Long10_ring:joint55 2
+    400130: Long10_ring:joint56
+    400132: Long10_ring:joint56 1
+    400134: Long10_ring:joint56 2
+    400136: Long10_ring:joint57
+    400138: Long10_ring:joint57 1
+    400140: Long10_ring:joint57 2
+    400142: Long10_ring:joint58
+    400144: Long10_ring:joint59
+    400146: Long10_ring:joint6
+    400148: Long10_ring:joint60
+    400150: Long10_ring:joint61
+    400152: Long10_ring:joint62
+    400154: Long10_ring:joint63
+    400156: Long10_ring:joint64
+    400158: Long10_ring:joint65
+    400160: Long10_ring:joint66
+    400162: Long10_ring:joint67
+    400164: Long10_ring:joint68
+    400166: Long10_ring:joint69
+    400168: Long10_ring:joint7
+    400170: Long10_ring:joint70
+    400172: Long10_ring:joint71
+    400174: Long10_ring:joint72
+    400176: Long10_ring:joint73
+    400178: Long10_ring:joint74
+    400180: Long10_ring:joint75
+    400182: Long10_ring:joint76
+    400184: Long10_ring:joint77
+    400186: Long10_ring:joint78
+    400188: Long10_ring:joint79
+    400190: Long10_ring:joint8
+    400192: Long10_ring:joint80
+    400194: Long10_ring:joint81
+    400196: Long10_ring:joint82
+    400198: Long10_ring:joint83
+    400200: Long10_ring:joint84
+    400202: Long10_ring:joint85
+    400204: Long10_ring:joint86
+    400206: Long10_ring:joint87
+    400208: Long10_ring:joint88
+    400210: Long10_ring:joint89
+    400212: Long10_ring:joint9
+    400214: Long10_ring:joint90
+    400216: Long10_ring:Long10
+    4300000: Long10_ring:Long10
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Long10_ring:Long10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

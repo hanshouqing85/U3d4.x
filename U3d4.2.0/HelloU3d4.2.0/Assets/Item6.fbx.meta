@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 78ca83ec2c77f7747b452fbfce1b8110
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Long06_binding:joint1
+    100004: Long06_binding:joint10
+    100006: Long06_binding:joint11
+    100008: Long06_binding:joint12
+    100010: Long06_binding:joint13
+    100012: Long06_binding:joint14
+    100014: Long06_binding:joint15
+    100016: Long06_binding:joint16
+    100018: Long06_binding:joint17
+    100020: Long06_binding:joint18
+    100022: Long06_binding:joint19
+    100024: Long06_binding:joint2
+    100026: Long06_binding:joint20
+    100028: Long06_binding:joint21
+    100030: Long06_binding:joint22
+    100032: Long06_binding:joint23
+    100034: Long06_binding:joint24
+    100036: Long06_binding:joint25
+    100038: Long06_binding:joint26
+    100040: Long06_binding:joint27
+    100042: Long06_binding:joint28
+    100044: Long06_binding:joint29
+    100046: Long06_binding:joint3
+    100048: Long06_binding:joint30
+    100050: Long06_binding:joint31
+    100052: Long06_binding:joint32
+    100054: Long06_binding:joint33
+    100056: Long06_binding:joint34
+    100058: Long06_binding:joint35
+    100060: Long06_binding:joint36
+    100062: Long06_binding:joint37
+    100064: Long06_binding:joint38
+    100066: Long06_binding:joint39
+    100068: Long06_binding:joint4
+    100070: Long06_binding:joint40
+    100072: Long06_binding:joint41
+    100074: Long06_binding:joint5
+    100076: Long06_binding:joint6
+    100078: Long06_binding:joint7
+    100080: Long06_binding:joint8
+    100082: Long06_binding:joint9
+    100084: Long06_binding:Long06
+    100086: Long06_binding:long06
+    400000: //RootNode
+    400002: Long06_binding:joint1
+    400004: Long06_binding:joint10
+    400006: Long06_binding:joint11
+    400008: Long06_binding:joint12
+    400010: Long06_binding:joint13
+    400012: Long06_binding:joint14
+    400014: Long06_binding:joint15
+    400016: Long06_binding:joint16
+    400018: Long06_binding:joint17
+    400020: Long06_binding:joint18
+    400022: Long06_binding:joint19
+    400024: Long06_binding:joint2
+    400026: Long06_binding:joint20
+    400028: Long06_binding:joint21
+    400030: Long06_binding:joint22
+    400032: Long06_binding:joint23
+    400034: Long06_binding:joint24
+    400036: Long06_binding:joint25
+    400038: Long06_binding:joint26
+    400040: Long06_binding:joint27
+    400042: Long06_binding:joint28
+    400044: Long06_binding:joint29
+    400046: Long06_binding:joint3
+    400048: Long06_binding:joint30
+    400050: Long06_binding:joint31
+    400052: Long06_binding:joint32
+    400054: Long06_binding:joint33
+    400056: Long06_binding:joint34
+    400058: Long06_binding:joint35
+    400060: Long06_binding:joint36
+    400062: Long06_binding:joint37
+    400064: Long06_binding:joint38
+    400066: Long06_binding:joint39
+    400068: Long06_binding:joint4
+    400070: Long06_binding:joint40
+    400072: Long06_binding:joint41
+    400074: Long06_binding:joint5
+    400076: Long06_binding:joint6
+    400078: Long06_binding:joint7
+    400080: Long06_binding:joint8
+    400082: Long06_binding:joint9
+    400084: Long06_binding:Long06
+    400086: Long06_binding:long06
+    4300000: Long06_binding:Long06
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Long06_binding:Long06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 

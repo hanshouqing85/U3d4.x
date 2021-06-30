@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2425492dd23726042b24f6591f1a9b0f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: long07_ring:group1
+    100004: long07_ring:joint1
+    100006: long07_ring:joint10
+    100008: long07_ring:joint11
+    100010: long07_ring:joint12
+    100012: long07_ring:joint13
+    100014: long07_ring:joint14
+    100016: long07_ring:joint15
+    100018: long07_ring:joint16
+    100020: long07_ring:joint17
+    100022: long07_ring:joint18
+    100024: long07_ring:joint19
+    100026: long07_ring:joint2
+    100028: long07_ring:joint20
+    100030: long07_ring:joint21
+    100032: long07_ring:joint22
+    100034: long07_ring:joint23
+    100036: long07_ring:joint24
+    100038: long07_ring:joint25
+    100040: long07_ring:joint26
+    100042: long07_ring:joint27
+    100044: long07_ring:joint28
+    100046: long07_ring:joint28 1
+    100048: long07_ring:joint28 2
+    100050: long07_ring:joint29
+    100052: long07_ring:joint29 1
+    100054: long07_ring:joint29 2
+    100056: long07_ring:joint3
+    100058: long07_ring:joint30
+    100060: long07_ring:joint31
+    100062: long07_ring:joint32
+    100064: long07_ring:joint33
+    100066: long07_ring:joint34
+    100068: long07_ring:joint35
+    100070: long07_ring:joint36
+    100072: long07_ring:joint37
+    100074: long07_ring:joint38
+    100076: long07_ring:joint39
+    100078: long07_ring:joint4
+    100080: long07_ring:joint40
+    100082: long07_ring:joint41
+    100084: long07_ring:joint42
+    100086: long07_ring:joint43
+    100088: long07_ring:joint44
+    100090: long07_ring:joint45
+    100092: long07_ring:joint46
+    100094: long07_ring:joint47
+    100096: long07_ring:joint48
+    100098: long07_ring:joint49
+    100100: long07_ring:joint5
+    100102: long07_ring:joint50
+    100104: long07_ring:joint51
+    100106: long07_ring:joint6
+    100108: long07_ring:joint7
+    100110: long07_ring:joint8
+    100112: long07_ring:joint9
+    100114: long07_ring:Long07
+    400000: //RootNode
+    400002: long07_ring:group1
+    400004: long07_ring:joint1
+    400006: long07_ring:joint10
+    400008: long07_ring:joint11
+    400010: long07_ring:joint12
+    400012: long07_ring:joint13
+    400014: long07_ring:joint14
+    400016: long07_ring:joint15
+    400018: long07_ring:joint16
+    400020: long07_ring:joint17
+    400022: long07_ring:joint18
+    400024: long07_ring:joint19
+    400026: long07_ring:joint2
+    400028: long07_ring:joint20
+    400030: long07_ring:joint21
+    400032: long07_ring:joint22
+    400034: long07_ring:joint23
+    400036: long07_ring:joint24
+    400038: long07_ring:joint25
+    400040: long07_ring:joint26
+    400042: long07_ring:joint27
+    400044: long07_ring:joint28
+    400046: long07_ring:joint28 1
+    400048: long07_ring:joint28 2
+    400050: long07_ring:joint29
+    400052: long07_ring:joint29 1
+    400054: long07_ring:joint29 2
+    400056: long07_ring:joint3
+    400058: long07_ring:joint30
+    400060: long07_ring:joint31
+    400062: long07_ring:joint32
+    400064: long07_ring:joint33
+    400066: long07_ring:joint34
+    400068: long07_ring:joint35
+    400070: long07_ring:joint36
+    400072: long07_ring:joint37
+    400074: long07_ring:joint38
+    400076: long07_ring:joint39
+    400078: long07_ring:joint4
+    400080: long07_ring:joint40
+    400082: long07_ring:joint41
+    400084: long07_ring:joint42
+    400086: long07_ring:joint43
+    400088: long07_ring:joint44
+    400090: long07_ring:joint45
+    400092: long07_ring:joint46
+    400094: long07_ring:joint47
+    400096: long07_ring:joint48
+    400098: long07_ring:joint49
+    400100: long07_ring:joint5
+    400102: long07_ring:joint50
+    400104: long07_ring:joint51
+    400106: long07_ring:joint6
+    400108: long07_ring:joint7
+    400110: long07_ring:joint8
+    400112: long07_ring:joint9
+    400114: long07_ring:Long07
+    4300000: long07_ring:Long07
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: long07_ring:Long07
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
