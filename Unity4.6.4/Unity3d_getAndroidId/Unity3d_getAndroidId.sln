@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1ABD1FA5-F6B1-5976-8A00-7A672D4F9EC8}") = "Unity3d_getAndroidId", "Assembly-CSharp.csproj", "{2BC39B8E-AFD7-76A1-B2F3-F8C6A4787D79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC39B8E-AFD7-76A1-B2F3-F8C6A4787D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC39B8E-AFD7-76A1-B2F3-F8C6A4787D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC39B8E-AFD7-76A1-B2F3-F8C6A4787D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC39B8E-AFD7-76A1-B2F3-F8C6A4787D79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
