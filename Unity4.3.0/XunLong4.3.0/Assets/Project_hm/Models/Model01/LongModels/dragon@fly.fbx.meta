@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 5baa83137cae005488507b8a25cc718a
+timeCreated: 1433852501
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AimSystem
+    100002: AlignIKTojoint12_M
+    100004: AlignIKTojoint19_L
+    100006: AlignIKTojoint19_R
+    100008: AlignIKTojoint28_L
+    100010: AlignIKTojoint28_R
+    100012: BendSystem
+    100014: Center_M
+    100016: CenterExtra_M
+    100018: CenterOffset_M
+    100020: DeformationSystem
+    100022: dragon:body01
+    100024: //RootNode
+    100026: DynamicSystem
+    100028: FitSkeleton
+    100030: FitSkeletonOffset
+    100032: FKExtrajoint11_M
+    100034: FKExtrajoint12_M
+    100036: FKExtrajoint13_M
+    100038: FKExtrajoint14_M
+    100040: FKExtrajoint15_M
+    100042: FKExtrajoint17_L
+    100044: FKExtrajoint17_R
+    100046: FKExtrajoint18_L
+    100048: FKExtrajoint18_R
+    100050: FKExtrajoint19_L
+    100052: FKExtrajoint19_R
+    100054: FKExtrajoint1_M
+    100056: FKExtrajoint20_L
+    100058: FKExtrajoint20_R
+    100060: FKExtrajoint21_L
+    100062: FKExtrajoint21_R
+    100064: FKExtrajoint22_L
+    100066: FKExtrajoint22_R
+    100068: FKExtrajoint24_L
+    100070: FKExtrajoint24_R
+    100072: FKExtrajoint25_L
+    100074: FKExtrajoint25_R
+    100076: FKExtrajoint26_L
+    100078: FKExtrajoint26_R
+    100080: FKExtrajoint27_L
+    100082: FKExtrajoint27_R
+    100084: FKExtrajoint28_L
+    100086: FKExtrajoint28_R
+    100088: FKExtrajoint29_L
+    100090: FKExtrajoint29_R
+    100092: FKExtrajoint2_M
+    100094: FKExtrajoint30_L
+    100096: FKExtrajoint30_R
+    100098: FKExtrajoint32_L
+    100100: FKExtrajoint32_R
+    100102: FKExtrajoint33_L
+    100104: FKExtrajoint33_R
+    100106: FKExtrajoint34_L
+    100108: FKExtrajoint34_R
+    100110: FKExtrajoint35_L
+    100112: FKExtrajoint35_R
+    100114: FKExtrajoint36_L
+    100116: FKExtrajoint36_R
+    100118: FKExtrajoint37_L
+    100120: FKExtrajoint37_R
+    100122: FKExtrajoint38_L
+    100124: FKExtrajoint38_R
+    100126: FKExtrajoint3_M
+    100128: FKExtrajoint40_M
+    100130: FKExtrajoint42_M
+    100132: FKExtrajoint43_M
+    100134: FKExtrajoint44_M
+    100136: FKExtrajoint49_L
+    100138: FKExtrajoint49_R
+    100140: FKExtrajoint4_M
+    100142: FKExtrajoint51_L
+    100144: FKExtrajoint51_R
+    100146: FKExtrajoint53_L
+    100148: FKExtrajoint53_R
+    100150: FKExtrajoint55_L
+    100152: FKExtrajoint55_R
+    100154: FKExtrajoint5_M
+    100156: FKExtrajoint6_M
+    100158: FKExtrajoint7_M
+    100160: FKExtrajoint8_M
+    100162: FKExtrajoint9_M
+    100164: FKIKArm_L
+    100166: FKIKArm_R
+    100168: FKIKLeg_L
+    100170: FKIKLeg_R
+    100172: FKIKParentConstraintArm_L
+    100174: FKIKParentConstraintArm_R
+    100176: FKIKParentConstraintLeg_L
+    100178: FKIKParentConstraintLeg_R
+    100180: FKIKParentConstraintSpine_M
+    100182: FKIKSpine_M
+    100184: FKIKSystem
+    100186: FKjoint11_M
+    100188: FKjoint12_M
+    100190: FKjoint13_M
+    100192: FKjoint14_M
+    100194: FKjoint15_M
+    100196: FKjoint17_L
+    100198: FKjoint17_R
+    100200: FKjoint18_L
+    100202: FKjoint18_R
+    100204: FKjoint19_L
+    100206: FKjoint19_R
+    100208: FKjoint1_M
+    100210: FKjoint20_L
+    100212: FKjoint20_R
+    100214: FKjoint21_L
+    100216: FKjoint21_R
+    100218: FKjoint22_L
+    100220: FKjoint22_R
+    100222: FKjoint24_L
+    100224: FKjoint24_R
+    100226: FKjoint25_L
+    100228: FKjoint25_R
+    100230: FKjoint26_L
+    100232: FKjoint26_R
+    100234: FKjoint27_L
+    100236: FKjoint27_R
+    100238: FKjoint28_L
+    100240: FKjoint28_R
+    100242: FKjoint29_L
+    100244: FKjoint29_R
+    100246: FKjoint2_M
+    100248: FKjoint30_L
+    100250: FKjoint30_R
+    100252: FKjoint32_L
+    100254: FKjoint32_R
+    100256: FKjoint33_L
+    100258: FKjoint33_R
+    100260: FKjoint34_L
+    100262: FKjoint34_R
+    100264: FKjoint35_L
+    100266: FKjoint35_R
+    100268: FKjoint36_L
+    100270: FKjoint36_R
+    100272: FKjoint37_L
+    100274: FKjoint37_R
+    100276: FKjoint38_L
+    100278: FKjoint38_R
+    100280: FKjoint3_M
+    100282: FKjoint40_M
+    100284: FKjoint42_M
+    100286: FKjoint43_M
+    100288: FKjoint44_M
+    100290: FKjoint49_L
+    100292: FKjoint49_R
+    100294: FKjoint4_M
+    100296: FKjoint51_L
+    100298: FKjoint51_R
+    100300: FKjoint53_L
+    100302: FKjoint53_R
+    100304: FKjoint55_L
+    100306: FKjoint55_R
+    100308: FKjoint5_M
+    100310: FKjoint6_M
+    100312: FKjoint7_M
+    100314: FKjoint8_M
+    100316: FKjoint9_M
+    100318: FKOffsetjoint11_M
+    100320: FKOffsetjoint12_M
+    100322: FKOffsetjoint13_M
+    100324: FKOffsetjoint14_M
+    100326: FKOffsetjoint15_M
+    100328: FKOffsetjoint17_L
+    100330: FKOffsetjoint17_R
+    100332: FKOffsetjoint18_L
+    100334: FKOffsetjoint18_R
+    100336: FKOffsetjoint19_L
+    100338: FKOffsetjoint19_R
+    100340: FKOffsetjoint1_M
+    100342: FKOffsetjoint20_L
+    100344: FKOffsetjoint20_R
+    100346: FKOffsetjoint21_L
+    100348: FKOffsetjoint21_R
+    100350: FKOffsetjoint22_L
+    100352: FKOffsetjoint22_R
+    100354: FKOffsetjoint24_L
+    100356: FKOffsetjoint24_R
+    100358: FKOffsetjoint25_L
+    100360: FKOffsetjoint25_R
+    100362: FKOffsetjoint26_L
+    100364: FKOffsetjoint26_R
+    100366: FKOffsetjoint27_L
+    100368: FKOffsetjoint27_R
+    100370: FKOffsetjoint28_L
+    100372: FKOffsetjoint28_R
+    100374: FKOffsetjoint29_L
+    100376: FKOffsetjoint29_R
+    100378: FKOffsetjoint2_M
+    100380: FKOffsetjoint30_L
+    100382: FKOffsetjoint30_R
+    100384: FKOffsetjoint32_L
+    100386: FKOffsetjoint32_R
+    100388: FKOffsetjoint33_L
+    100390: FKOffsetjoint33_R
+    100392: FKOffsetjoint34_L
+    100394: FKOffsetjoint34_R
+    100396: FKOffsetjoint35_L
+    100398: FKOffsetjoint35_R
+    100400: FKOffsetjoint36_L
+    100402: FKOffsetjoint36_R
+    100404: FKOffsetjoint37_L
+    100406: FKOffsetjoint37_R
+    100408: FKOffsetjoint38_L
+    100410: FKOffsetjoint38_R
+    100412: FKOffsetjoint3_M
+    100414: FKOffsetjoint40_M
+    100416: FKOffsetjoint42_M
+    100418: FKOffsetjoint43_M
+    100420: FKOffsetjoint44_M
+    100422: FKOffsetjoint49_L
+    100424: FKOffsetjoint49_R
+    100426: FKOffsetjoint4_M
+    100428: FKOffsetjoint51_L
+    100430: FKOffsetjoint51_R
+    100432: FKOffsetjoint53_L
+    100434: FKOffsetjoint53_R
+    100436: FKOffsetjoint55_L
+    100438: FKOffsetjoint55_R
+    100440: FKOffsetjoint5_M
+    100442: FKOffsetjoint6_M
+    100444: FKOffsetjoint7_M
+    100446: FKOffsetjoint8_M
+    100448: FKOffsetjoint9_M
+    100450: FKParentConstraintTojoint12_M
+    100452: FKParentConstraintTojoint19_L
+    100454: FKParentConstraintTojoint19_R
+    100456: FKParentConstraintTojoint1_M
+    100458: FKParentConstraintTojoint28_L
+    100460: FKParentConstraintTojoint28_R
+    100462: FKSystem
+    100464: FKXjoint10_M
+    100466: FKXjoint11_M
+    100468: FKXjoint12_M
+    100470: FKXjoint13_M
+    100472: FKXjoint14_M
+    100474: FKXjoint15_M
+    100476: FKXjoint16_M
+    100478: FKXjoint17_L
+    100480: FKXjoint17_R
+    100482: FKXjoint18_L
+    100484: FKXjoint18_R
+    100486: FKXjoint19_L
+    100488: FKXjoint19_R
+    100490: FKXjoint1_M
+    100492: FKXjoint20_L
+    100494: FKXjoint20_R
+    100496: FKXjoint21_L
+    100498: FKXjoint21_R
+    100500: FKXjoint22_L
+    100502: FKXjoint22_R
+    100504: FKXjoint23_L
+    100506: FKXjoint23_R
+    100508: FKXjoint24_L
+    100510: FKXjoint24_R
+    100512: FKXjoint25_L
+    100514: FKXjoint25_R
+    100516: FKXjoint26_L
+    100518: FKXjoint26_R
+    100520: FKXjoint27_L
+    100522: FKXjoint27_R
+    100524: FKXjoint28_L
+    100526: FKXjoint28_R
+    100528: FKXjoint29_L
+    100530: FKXjoint29_R
+    100532: FKXjoint2_M
+    100534: FKXjoint30_L
+    100536: FKXjoint30_R
+    100538: FKXjoint31_L
+    100540: FKXjoint31_R
+    100542: FKXjoint32_L
+    100544: FKXjoint32_R
+    100546: FKXjoint33_L
+    100548: FKXjoint33_R
+    100550: FKXjoint34_L
+    100552: FKXjoint34_R
+    100554: FKXjoint35_L
+    100556: FKXjoint35_R
+    100558: FKXjoint36_L
+    100560: FKXjoint36_R
+    100562: FKXjoint37_L
+    100564: FKXjoint37_R
+    100566: FKXjoint38_L
+    100568: FKXjoint38_R
+    100570: FKXjoint39_L
+    100572: FKXjoint39_R
+    100574: FKXjoint3_M
+    100576: FKXjoint40_M
+    100578: FKXjoint41_M
+    100580: FKXjoint42_M
+    100582: FKXjoint43_M
+    100584: FKXjoint44_M
+    100586: FKXjoint45_M
+    100588: FKXjoint46_M
+    100590: FKXjoint47_M
+    100592: FKXjoint48_L
+    100594: FKXjoint48_R
+    100596: FKXjoint49_L
+    100598: FKXjoint49_R
+    100600: FKXjoint4_M
+    100602: FKXjoint50_L
+    100604: FKXjoint50_R
+    100606: FKXjoint51_L
+    100608: FKXjoint51_R
+    100610: FKXjoint52_L
+    100612: FKXjoint52_R
+    100614: FKXjoint53_L
+    100616: FKXjoint53_R
+    100618: FKXjoint54_L
+    100620: FKXjoint54_R
+    100622: FKXjoint55_L
+    100624: FKXjoint55_R
+    100626: FKXjoint5_M
+    100628: FKXjoint6_M
+    100630: FKXjoint7_M
+    100632: FKXjoint8_M
+    100634: FKXjoint9_M
+    100636: Geometry
+    100638: GlobalSystem
+    100640: Group
+    100642: HipSwingerGroupjoint1_M
+    100644: HipSwingerjoint1_M
+    100646: HipSwingerOffsetjoint1_M
+    100648: HipSwingerStabalizejoint1_M
+    100650: IKArm_L
+    100652: IKArm_R
+    100654: IKCrv
+    100656: IKdistanceArm_L
+    100658: IKdistanceArm_R
+    100660: IKdistanceLeg_L
+    100662: IKdistanceLeg_R
+    100664: IKEndJointOrientToSpine_M
+    100666: IKExtraArm_L
+    100668: IKExtraArm_R
+    100670: IKExtraLeg_L
+    100672: IKExtraLeg_R
+    100674: IKExtraLegToe_L
+    100676: IKExtraLegToe_R
+    100678: IKExtraSpine0_M
+    100680: IKExtraSpine2_M
+    100682: IKExtraSpine4_M
+    100684: IKfake1Spine_M
+    100686: IKFake1UpLocSpine_M
+    100688: IKfake2Spine_M
+    100690: IKFKAlignedArm_L
+    100692: IKFKAlignedArm_R
+    100694: IKFKAlignedLeg_L
+    100696: IKFKAlignedLeg_R
+    100698: IKFKAlignedSpine_M
+    100700: IKFootRollLeg_L
+    100702: IKFootRollLeg_R
+    100704: IKHandle
+    100706: IKLeg_L
+    100708: IKLeg_R
+    100710: IKLegToe_L
+    100712: IKLegToe_R
+    100714: IKMessure
+    100716: IKmessureLoc1Arm_L
+    100718: IKmessureLoc1Arm_R
+    100720: IKmessureLoc1Leg_L
+    100722: IKmessureLoc1Leg_R
+    100724: IKmessureLoc2Arm_L
+    100726: IKmessureLoc2Arm_R
+    100728: IKmessureLoc2Leg_L
+    100730: IKmessureLoc2Leg_R
+    100732: IKOffsetjoint17_L
+    100734: IKOffsetjoint17_R
+    100736: IKOffsetjoint1_M
+    100738: IKOffsetjoint26_L
+    100740: IKOffsetjoint26_R
+    100742: IKOrientToSpine_M
+    100744: IKParentConstraint
+    100746: IKParentConstraintArm_L
+    100748: IKParentConstraintArm_LStatic
+    100750: IKParentConstraintArm_R
+    100752: IKParentConstraintArm_RStatic
+    100754: IKParentConstraintjoint17_L
+    100756: IKParentConstraintjoint17_R
+    100758: IKParentConstraintjoint1_M
+    100760: IKParentConstraintjoint26_L
+    100762: IKParentConstraintjoint26_R
+    100764: IKParentConstraintLeg_L
+    100766: IKParentConstraintLeg_R
+    100768: IKParentConstraintSpine0_M
+    100770: IKParentConstraintSpine2_M
+    100772: IKParentConstraintSpine4_M
+    100774: IKRollLegToe_L
+    100776: IKRollLegToe_R
+    100778: IKSpine0_M
+    100780: IKSpine0AlignTo_M
+    100782: IKSpine2_M
+    100784: IKSpine4_M
+    100786: IKSpine4AlignTo_M
+    100788: IKSpine4AlignUnTwistTo_M
+    100790: IKSpine4AlignUnTwistToOffset_M
+    100792: IKStatic
+    100794: IKStiffEndOrientSpine_M
+    100796: IKStiffStartOrientSpine_M
+    100798: IKSystem
+    100800: IKXArmHandle_L
+    100802: IKXArmHandle_R
+    100804: IKXjoint11_M
+    100806: IKXjoint12_M
+    100808: IKXjoint17_L
+    100810: IKXjoint17_R
+    100812: IKXjoint18_L
+    100814: IKXjoint18_R
+    100816: IKXjoint19_L
+    100818: IKXjoint19_R
+    100820: IKXjoint1_M
+    100822: IKXjoint26_L
+    100824: IKXjoint26_R
+    100826: IKXjoint27_L
+    100828: IKXjoint27_R
+    100830: IKXjoint28_L
+    100832: IKXjoint28_R
+    100834: IKXjoint54_L
+    100836: IKXjoint54_R
+    100838: IKXLegHandle_L
+    100840: IKXLegHandle_R
+    100842: IKXSpineCurve_M
+    100844: IKXSpineHandle_M
+    100846: IKXSpineLocator0_M
+    100848: IKXSpineLocator1_M
+    100850: IKXSpineLocator2_M
+    100852: IKXSpineLocator3_M
+    100854: IKXSpineLocator4_M
+    100856: joint1
+    100858: joint10
+    100860: joint10_M
+    100862: joint11
+    100864: joint11_M
+    100866: joint12
+    100868: joint12_M
+    100870: joint13
+    100872: joint13_M
+    100874: joint14
+    100876: joint14_M
+    100878: joint15
+    100880: joint15_M
+    100882: joint16
+    100884: joint16_M
+    100886: joint17
+    100888: joint17_L
+    100890: joint17_R
+    100892: joint18
+    100894: joint18_L
+    100896: joint18_R
+    100898: joint19
+    100900: joint19_L
+    100902: joint19_R
+    100904: joint1_M
+    100906: joint1Center_M
+    100908: joint1CenterBtwLegs_M
+    100910: joint1CenterBtwLegsBlended_M
+    100912: joint1CenterBtwLegsOffset_M
+    100914: joint2
+    100916: joint20
+    100918: joint20_L
+    100920: joint20_R
+    100922: joint21
+    100924: joint21_L
+    100926: joint21_R
+    100928: joint22
+    100930: joint22_L
+    100932: joint22_R
+    100934: joint23
+    100936: joint23_L
+    100938: joint23_R
+    100940: joint24
+    100942: joint24_L
+    100944: joint24_R
+    100946: joint25
+    100948: joint25_L
+    100950: joint25_R
+    100952: joint26
+    100954: joint26_L
+    100956: joint26_R
+    100958: joint27
+    100960: joint27_L
+    100962: joint27_R
+    100964: joint28
+    100966: joint28_L
+    100968: joint28_R
+    100970: joint29
+    100972: joint29_L
+    100974: joint29_R
+    100976: joint2_M
+    100978: joint3
+    100980: joint30
+    100982: joint30_L
+    100984: joint30_R
+    100986: joint31
+    100988: joint31_L
+    100990: joint31_R
+    100992: joint32
+    100994: joint32_L
+    100996: joint32_R
+    100998: joint33
+    101000: joint33_L
+    101002: joint33_R
+    101004: joint34
+    101006: joint34_L
+    101008: joint34_R
+    101010: joint35
+    101012: joint35_L
+    101014: joint35_R
+    101016: joint36
+    101018: joint36_L
+    101020: joint36_R
+    101022: joint37
+    101024: joint37_L
+    101026: joint37_R
+    101028: joint38
+    101030: joint38_L
+    101032: joint38_R
+    101034: joint39
+    101036: joint39_L
+    101038: joint39_R
+    101040: joint3_M
+    101042: joint4
+    101044: joint40
+    101046: joint40_M
+    101048: joint41
+    101050: joint41_M
+    101052: joint42
+    101054: joint42_M
+    101056: joint43
+    101058: joint43_M
+    101060: joint44
+    101062: joint44_M
+    101064: joint45
+    101066: joint45_M
+    101068: joint46
+    101070: joint46_M
+    101072: joint47
+    101074: joint47_M
+    101076: joint48
+    101078: joint48_L
+    101080: joint48_R
+    101082: joint49
+    101084: joint49_L
+    101086: joint49_R
+    101088: joint4_M
+    101090: joint5
+    101092: joint50
+    101094: joint50_L
+    101096: joint50_R
+    101098: joint51
+    101100: joint51_L
+    101102: joint51_R
+    101104: joint52
+    101106: joint52_L
+    101108: joint52_R
+    101110: joint53
+    101112: joint53_L
+    101114: joint53_R
+    101116: joint54
+    101118: joint54_L
+    101120: joint54_R
+    101122: joint55
+    101124: joint55_L
+    101126: joint55_R
+    101128: joint5_M
+    101130: joint6
+    101132: joint6_M
+    101134: joint7
+    101136: joint7_M
+    101138: joint8
+    101140: joint8_M
+    101142: joint9
+    101144: joint9_M
+    101146: Main
+    101148: MotionSystem
+    101150: PoleAimLeg_L
+    101152: PoleAimLeg_R
+    101154: PoleAnnotationArm_L
+    101156: PoleAnnotationArm_R
+    101158: PoleAnnotationLeg_L
+    101160: PoleAnnotationLeg_R
+    101162: PoleArm_L
+    101164: PoleArm_R
+    101166: PoleExtraArm_L
+    101168: PoleExtraArm_R
+    101170: PoleExtraLeg_L
+    101172: PoleExtraLeg_R
+    101174: PoleLeg_L
+    101176: PoleLeg_R
+    101178: PoleParentConstraintArm_L
+    101180: PoleParentConstraintArm_LStatic
+    101182: PoleParentConstraintArm_R
+    101184: PoleParentConstraintArm_RStatic
+    101186: PoleParentConstraintLeg_L
+    101188: PoleParentConstraintLeg_LStatic
+    101190: PoleParentConstraintLeg_R
+    101192: PoleParentConstraintLeg_RStatic
+    101194: RootSystem
+    101196: TwistFollowjoint1_M
+    101198: TwistSystem
+    101200: UnTwistEndjoint1_M
+    101202: UnTwistIKjoint1_M
+    101204: UnTwistjoint1_M
+    101206: WagSystem
+    400000: AimSystem
+    400002: AlignIKTojoint12_M
+    400004: AlignIKTojoint19_L
+    400006: AlignIKTojoint19_R
+    400008: AlignIKTojoint28_L
+    400010: AlignIKTojoint28_R
+    400012: BendSystem
+    400014: Center_M
+    400016: CenterExtra_M
+    400018: CenterOffset_M
+    400020: DeformationSystem
+    400022: dragon:body01
+    400024: //RootNode
+    400026: DynamicSystem
+    400028: FitSkeleton
+    400030: FitSkeletonOffset
+    400032: FKExtrajoint11_M
+    400034: FKExtrajoint12_M
+    400036: FKExtrajoint13_M
+    400038: FKExtrajoint14_M
+    400040: FKExtrajoint15_M
+    400042: FKExtrajoint17_L
+    400044: FKExtrajoint17_R
+    400046: FKExtrajoint18_L
+    400048: FKExtrajoint18_R
+    400050: FKExtrajoint19_L
+    400052: FKExtrajoint19_R
+    400054: FKExtrajoint1_M
+    400056: FKExtrajoint20_L
+    400058: FKExtrajoint20_R
+    400060: FKExtrajoint21_L
+    400062: FKExtrajoint21_R
+    400064: FKExtrajoint22_L
+    400066: FKExtrajoint22_R
+    400068: FKExtrajoint24_L
+    400070: FKExtrajoint24_R
+    400072: FKExtrajoint25_L
+    400074: FKExtrajoint25_R
+    400076: FKExtrajoint26_L
+    400078: FKExtrajoint26_R
+    400080: FKExtrajoint27_L
+    400082: FKExtrajoint27_R
+    400084: FKExtrajoint28_L
+    400086: FKExtrajoint28_R
+    400088: FKExtrajoint29_L
+    400090: FKExtrajoint29_R
+    400092: FKExtrajoint2_M
+    400094: FKExtrajoint30_L
+    400096: FKExtrajoint30_R
+    400098: FKExtrajoint32_L
+    400100: FKExtrajoint32_R
+    400102: FKExtrajoint33_L
+    400104: FKExtrajoint33_R
+    400106: FKExtrajoint34_L
+    400108: FKExtrajoint34_R
+    400110: FKExtrajoint35_L
+    400112: FKExtrajoint35_R
+    400114: FKExtrajoint36_L
+    400116: FKExtrajoint36_R
+    400118: FKExtrajoint37_L
+    400120: FKExtrajoint37_R
+    400122: FKExtrajoint38_L
+    400124: FKExtrajoint38_R
+    400126: FKExtrajoint3_M
+    400128: FKExtrajoint40_M
+    400130: FKExtrajoint42_M
+    400132: FKExtrajoint43_M
+    400134: FKExtrajoint44_M
+    400136: FKExtrajoint49_L
+    400138: FKExtrajoint49_R
+    400140: FKExtrajoint4_M
+    400142: FKExtrajoint51_L
+    400144: FKExtrajoint51_R
+    400146: FKExtrajoint53_L
+    400148: FKExtrajoint53_R
+    400150: FKExtrajoint55_L
+    400152: FKExtrajoint55_R
+    400154: FKExtrajoint5_M
+    400156: FKExtrajoint6_M
+    400158: FKExtrajoint7_M
+    400160: FKExtrajoint8_M
+    400162: FKExtrajoint9_M
+    400164: FKIKArm_L
+    400166: FKIKArm_R
+    400168: FKIKLeg_L
+    400170: FKIKLeg_R
+    400172: FKIKParentConstraintArm_L
+    400174: FKIKParentConstraintArm_R
+    400176: FKIKParentConstraintLeg_L
+    400178: FKIKParentConstraintLeg_R
+    400180: FKIKParentConstraintSpine_M
+    400182: FKIKSpine_M
+    400184: FKIKSystem
+    400186: FKjoint11_M
+    400188: FKjoint12_M
+    400190: FKjoint13_M
+    400192: FKjoint14_M
+    400194: FKjoint15_M
+    400196: FKjoint17_L
+    400198: FKjoint17_R
+    400200: FKjoint18_L
+    400202: FKjoint18_R
+    400204: FKjoint19_L
+    400206: FKjoint19_R
+    400208: FKjoint1_M
+    400210: FKjoint20_L
+    400212: FKjoint20_R
+    400214: FKjoint21_L
+    400216: FKjoint21_R
+    400218: FKjoint22_L
+    400220: FKjoint22_R
+    400222: FKjoint24_L
+    400224: FKjoint24_R
+    400226: FKjoint25_L
+    400228: FKjoint25_R
+    400230: FKjoint26_L
+    400232: FKjoint26_R
+    400234: FKjoint27_L
+    400236: FKjoint27_R
+    400238: FKjoint28_L
+    400240: FKjoint28_R
+    400242: FKjoint29_L
+    400244: FKjoint29_R
+    400246: FKjoint2_M
+    400248: FKjoint30_L
+    400250: FKjoint30_R
+    400252: FKjoint32_L
+    400254: FKjoint32_R
+    400256: FKjoint33_L
+    400258: FKjoint33_R
+    400260: FKjoint34_L
+    400262: FKjoint34_R
+    400264: FKjoint35_L
+    400266: FKjoint35_R
+    400268: FKjoint36_L
+    400270: FKjoint36_R
+    400272: FKjoint37_L
+    400274: FKjoint37_R
+    400276: FKjoint38_L
+    400278: FKjoint38_R
+    400280: FKjoint3_M
+    400282: FKjoint40_M
+    400284: FKjoint42_M
+    400286: FKjoint43_M
+    400288: FKjoint44_M
+    400290: FKjoint49_L
+    400292: FKjoint49_R
+    400294: FKjoint4_M
+    400296: FKjoint51_L
+    400298: FKjoint51_R
+    400300: FKjoint53_L
+    400302: FKjoint53_R
+    400304: FKjoint55_L
+    400306: FKjoint55_R
+    400308: FKjoint5_M
+    400310: FKjoint6_M
+    400312: FKjoint7_M
+    400314: FKjoint8_M
+    400316: FKjoint9_M
+    400318: FKOffsetjoint11_M
+    400320: FKOffsetjoint12_M
+    400322: FKOffsetjoint13_M
+    400324: FKOffsetjoint14_M
+    400326: FKOffsetjoint15_M
+    400328: FKOffsetjoint17_L
+    400330: FKOffsetjoint17_R
+    400332: FKOffsetjoint18_L
+    400334: FKOffsetjoint18_R
+    400336: FKOffsetjoint19_L
+    400338: FKOffsetjoint19_R
+    400340: FKOffsetjoint1_M
+    400342: FKOffsetjoint20_L
+    400344: FKOffsetjoint20_R
+    400346: FKOffsetjoint21_L
+    400348: FKOffsetjoint21_R
+    400350: FKOffsetjoint22_L
+    400352: FKOffsetjoint22_R
+    400354: FKOffsetjoint24_L
+    400356: FKOffsetjoint24_R
+    400358: FKOffsetjoint25_L
+    400360: FKOffsetjoint25_R
+    400362: FKOffsetjoint26_L
+    400364: FKOffsetjoint26_R
+    400366: FKOffsetjoint27_L
+    400368: FKOffsetjoint27_R
+    400370: FKOffsetjoint28_L
+    400372: FKOffsetjoint28_R
+    400374: FKOffsetjoint29_L
+    400376: FKOffsetjoint29_R
+    400378: FKOffsetjoint2_M
+    400380: FKOffsetjoint30_L
+    400382: FKOffsetjoint30_R
+    400384: FKOffsetjoint32_L
+    400386: FKOffsetjoint32_R
+    400388: FKOffsetjoint33_L
+    400390: FKOffsetjoint33_R
+    400392: FKOffsetjoint34_L
+    400394: FKOffsetjoint34_R
+    400396: FKOffsetjoint35_L
+    400398: FKOffsetjoint35_R
+    400400: FKOffsetjoint36_L
+    400402: FKOffsetjoint36_R
+    400404: FKOffsetjoint37_L
+    400406: FKOffsetjoint37_R
+    400408: FKOffsetjoint38_L
+    400410: FKOffsetjoint38_R
+    400412: FKOffsetjoint3_M
+    400414: FKOffsetjoint40_M
+    400416: FKOffsetjoint42_M
+    400418: FKOffsetjoint43_M
+    400420: FKOffsetjoint44_M
+    400422: FKOffsetjoint49_L
+    400424: FKOffsetjoint49_R
+    400426: FKOffsetjoint4_M
+    400428: FKOffsetjoint51_L
+    400430: FKOffsetjoint51_R
+    400432: FKOffsetjoint53_L
+    400434: FKOffsetjoint53_R
+    400436: FKOffsetjoint55_L
+    400438: FKOffsetjoint55_R
+    400440: FKOffsetjoint5_M
+    400442: FKOffsetjoint6_M
+    400444: FKOffsetjoint7_M
+    400446: FKOffsetjoint8_M
+    400448: FKOffsetjoint9_M
+    400450: FKParentConstraintTojoint12_M
+    400452: FKParentConstraintTojoint19_L
+    400454: FKParentConstraintTojoint19_R
+    400456: FKParentConstraintTojoint1_M
+    400458: FKParentConstraintTojoint28_L
+    400460: FKParentConstraintTojoint28_R
+    400462: FKSystem
+    400464: FKXjoint10_M
+    400466: FKXjoint11_M
+    400468: FKXjoint12_M
+    400470: FKXjoint13_M
+    400472: FKXjoint14_M
+    400474: FKXjoint15_M
+    400476: FKXjoint16_M
+    400478: FKXjoint17_L
+    400480: FKXjoint17_R
+    400482: FKXjoint18_L
+    400484: FKXjoint18_R
+    400486: FKXjoint19_L
+    400488: FKXjoint19_R
+    400490: FKXjoint1_M
+    400492: FKXjoint20_L
+    400494: FKXjoint20_R
+    400496: FKXjoint21_L
+    400498: FKXjoint21_R
+    400500: FKXjoint22_L
+    400502: FKXjoint22_R
+    400504: FKXjoint23_L
+    400506: FKXjoint23_R
+    400508: FKXjoint24_L
+    400510: FKXjoint24_R
+    400512: FKXjoint25_L
+    400514: FKXjoint25_R
+    400516: FKXjoint26_L
+    400518: FKXjoint26_R
+    400520: FKXjoint27_L
+    400522: FKXjoint27_R
+    400524: FKXjoint28_L
+    400526: FKXjoint28_R
+    400528: FKXjoint29_L
+    400530: FKXjoint29_R
+    400532: FKXjoint2_M
+    400534: FKXjoint30_L
+    400536: FKXjoint30_R
+    400538: FKXjoint31_L
+    400540: FKXjoint31_R
+    400542: FKXjoint32_L
+    400544: FKXjoint32_R
+    400546: FKXjoint33_L
+    400548: FKXjoint33_R
+    400550: FKXjoint34_L
+    400552: FKXjoint34_R
+    400554: FKXjoint35_L
+    400556: FKXjoint35_R
+    400558: FKXjoint36_L
+    400560: FKXjoint36_R
+    400562: FKXjoint37_L
+    400564: FKXjoint37_R
+    400566: FKXjoint38_L
+    400568: FKXjoint38_R
+    400570: FKXjoint39_L
+    400572: FKXjoint39_R
+    400574: FKXjoint3_M
+    400576: FKXjoint40_M
+    400578: FKXjoint41_M
+    400580: FKXjoint42_M
+    400582: FKXjoint43_M
+    400584: FKXjoint44_M
+    400586: FKXjoint45_M
+    400588: FKXjoint46_M
+    400590: FKXjoint47_M
+    400592: FKXjoint48_L
+    400594: FKXjoint48_R
+    400596: FKXjoint49_L
+    400598: FKXjoint49_R
+    400600: FKXjoint4_M
+    400602: FKXjoint50_L
+    400604: FKXjoint50_R
+    400606: FKXjoint51_L
+    400608: FKXjoint51_R
+    400610: FKXjoint52_L
+    400612: FKXjoint52_R
+    400614: FKXjoint53_L
+    400616: FKXjoint53_R
+    400618: FKXjoint54_L
+    400620: FKXjoint54_R
+    400622: FKXjoint55_L
+    400624: FKXjoint55_R
+    400626: FKXjoint5_M
+    400628: FKXjoint6_M
+    400630: FKXjoint7_M
+    400632: FKXjoint8_M
+    400634: FKXjoint9_M
+    400636: Geometry
+    400638: GlobalSystem
+    400640: Group
+    400642: HipSwingerGroupjoint1_M
+    400644: HipSwingerjoint1_M
+    400646: HipSwingerOffsetjoint1_M
+    400648: HipSwingerStabalizejoint1_M
+    400650: IKArm_L
+    400652: IKArm_R
+    400654: IKCrv
+    400656: IKdistanceArm_L
+    400658: IKdistanceArm_R
+    400660: IKdistanceLeg_L
+    400662: IKdistanceLeg_R
+    400664: IKEndJointOrientToSpine_M
+    400666: IKExtraArm_L
+    400668: IKExtraArm_R
+    400670: IKExtraLeg_L
+    400672: IKExtraLeg_R
+    400674: IKExtraLegToe_L
+    400676: IKExtraLegToe_R
+    400678: IKExtraSpine0_M
+    400680: IKExtraSpine2_M
+    400682: IKExtraSpine4_M
+    400684: IKfake1Spine_M
+    400686: IKFake1UpLocSpine_M
+    400688: IKfake2Spine_M
+    400690: IKFKAlignedArm_L
+    400692: IKFKAlignedArm_R
+    400694: IKFKAlignedLeg_L
+    400696: IKFKAlignedLeg_R
+    400698: IKFKAlignedSpine_M
+    400700: IKFootRollLeg_L
+    400702: IKFootRollLeg_R
+    400704: IKHandle
+    400706: IKLeg_L
+    400708: IKLeg_R
+    400710: IKLegToe_L
+    400712: IKLegToe_R
+    400714: IKMessure
+    400716: IKmessureLoc1Arm_L
+    400718: IKmessureLoc1Arm_R
+    400720: IKmessureLoc1Leg_L
+    400722: IKmessureLoc1Leg_R
+    400724: IKmessureLoc2Arm_L
+    400726: IKmessureLoc2Arm_R
+    400728: IKmessureLoc2Leg_L
+    400730: IKmessureLoc2Leg_R
+    400732: IKOffsetjoint17_L
+    400734: IKOffsetjoint17_R
+    400736: IKOffsetjoint1_M
+    400738: IKOffsetjoint26_L
+    400740: IKOffsetjoint26_R
+    400742: IKOrientToSpine_M
+    400744: IKParentConstraint
+    400746: IKParentConstraintArm_L
+    400748: IKParentConstraintArm_LStatic
+    400750: IKParentConstraintArm_R
+    400752: IKParentConstraintArm_RStatic
+    400754: IKParentConstraintjoint17_L
+    400756: IKParentConstraintjoint17_R
+    400758: IKParentConstraintjoint1_M
+    400760: IKParentConstraintjoint26_L
+    400762: IKParentConstraintjoint26_R
+    400764: IKParentConstraintLeg_L
+    400766: IKParentConstraintLeg_R
+    400768: IKParentConstraintSpine0_M
+    400770: IKParentConstraintSpine2_M
+    400772: IKParentConstraintSpine4_M
+    400774: IKRollLegToe_L
+    400776: IKRollLegToe_R
+    400778: IKSpine0_M
+    400780: IKSpine0AlignTo_M
+    400782: IKSpine2_M
+    400784: IKSpine4_M
+    400786: IKSpine4AlignTo_M
+    400788: IKSpine4AlignUnTwistTo_M
+    400790: IKSpine4AlignUnTwistToOffset_M
+    400792: IKStatic
+    400794: IKStiffEndOrientSpine_M
+    400796: IKStiffStartOrientSpine_M
+    400798: IKSystem
+    400800: IKXArmHandle_L
+    400802: IKXArmHandle_R
+    400804: IKXjoint11_M
+    400806: IKXjoint12_M
+    400808: IKXjoint17_L
+    400810: IKXjoint17_R
+    400812: IKXjoint18_L
+    400814: IKXjoint18_R
+    400816: IKXjoint19_L
+    400818: IKXjoint19_R
+    400820: IKXjoint1_M
+    400822: IKXjoint26_L
+    400824: IKXjoint26_R
+    400826: IKXjoint27_L
+    400828: IKXjoint27_R
+    400830: IKXjoint28_L
+    400832: IKXjoint28_R
+    400834: IKXjoint54_L
+    400836: IKXjoint54_R
+    400838: IKXLegHandle_L
+    400840: IKXLegHandle_R
+    400842: IKXSpineCurve_M
+    400844: IKXSpineHandle_M
+    400846: IKXSpineLocator0_M
+    400848: IKXSpineLocator1_M
+    400850: IKXSpineLocator2_M
+    400852: IKXSpineLocator3_M
+    400854: IKXSpineLocator4_M
+    400856: joint1
+    400858: joint10
+    400860: joint10_M
+    400862: joint11
+    400864: joint11_M
+    400866: joint12
+    400868: joint12_M
+    400870: joint13
+    400872: joint13_M
+    400874: joint14
+    400876: joint14_M
+    400878: joint15
+    400880: joint15_M
+    400882: joint16
+    400884: joint16_M
+    400886: joint17
+    400888: joint17_L
+    400890: joint17_R
+    400892: joint18
+    400894: joint18_L
+    400896: joint18_R
+    400898: joint19
+    400900: joint19_L
+    400902: joint19_R
+    400904: joint1_M
+    400906: joint1Center_M
+    400908: joint1CenterBtwLegs_M
+    400910: joint1CenterBtwLegsBlended_M
+    400912: joint1CenterBtwLegsOffset_M
+    400914: joint2
+    400916: joint20
+    400918: joint20_L
+    400920: joint20_R
+    400922: joint21
+    400924: joint21_L
+    400926: joint21_R
+    400928: joint22
+    400930: joint22_L
+    400932: joint22_R
+    400934: joint23
+    400936: joint23_L
+    400938: joint23_R
+    400940: joint24
+    400942: joint24_L
+    400944: joint24_R
+    400946: joint25
+    400948: joint25_L
+    400950: joint25_R
+    400952: joint26
+    400954: joint26_L
+    400956: joint26_R
+    400958: joint27
+    400960: joint27_L
+    400962: joint27_R
+    400964: joint28
+    400966: joint28_L
+    400968: joint28_R
+    400970: joint29
+    400972: joint29_L
+    400974: joint29_R
+    400976: joint2_M
+    400978: joint3
+    400980: joint30
+    400982: joint30_L
+    400984: joint30_R
+    400986: joint31
+    400988: joint31_L
+    400990: joint31_R
+    400992: joint32
+    400994: joint32_L
+    400996: joint32_R
+    400998: joint33
+    401000: joint33_L
+    401002: joint33_R
+    401004: joint34
+    401006: joint34_L
+    401008: joint34_R
+    401010: joint35
+    401012: joint35_L
+    401014: joint35_R
+    401016: joint36
+    401018: joint36_L
+    401020: joint36_R
+    401022: joint37
+    401024: joint37_L
+    401026: joint37_R
+    401028: joint38
+    401030: joint38_L
+    401032: joint38_R
+    401034: joint39
+    401036: joint39_L
+    401038: joint39_R
+    401040: joint3_M
+    401042: joint4
+    401044: joint40
+    401046: joint40_M
+    401048: joint41
+    401050: joint41_M
+    401052: joint42
+    401054: joint42_M
+    401056: joint43
+    401058: joint43_M
+    401060: joint44
+    401062: joint44_M
+    401064: joint45
+    401066: joint45_M
+    401068: joint46
+    401070: joint46_M
+    401072: joint47
+    401074: joint47_M
+    401076: joint48
+    401078: joint48_L
+    401080: joint48_R
+    401082: joint49
+    401084: joint49_L
+    401086: joint49_R
+    401088: joint4_M
+    401090: joint5
+    401092: joint50
+    401094: joint50_L
+    401096: joint50_R
+    401098: joint51
+    401100: joint51_L
+    401102: joint51_R
+    401104: joint52
+    401106: joint52_L
+    401108: joint52_R
+    401110: joint53
+    401112: joint53_L
+    401114: joint53_R
+    401116: joint54
+    401118: joint54_L
+    401120: joint54_R
+    401122: joint55
+    401124: joint55_L
+    401126: joint55_R
+    401128: joint5_M
+    401130: joint6
+    401132: joint6_M
+    401134: joint7
+    401136: joint7_M
+    401138: joint8
+    401140: joint8_M
+    401142: joint9
+    401144: joint9_M
+    401146: Main
+    401148: MotionSystem
+    401150: PoleAimLeg_L
+    401152: PoleAimLeg_R
+    401154: PoleAnnotationArm_L
+    401156: PoleAnnotationArm_R
+    401158: PoleAnnotationLeg_L
+    401160: PoleAnnotationLeg_R
+    401162: PoleArm_L
+    401164: PoleArm_R
+    401166: PoleExtraArm_L
+    401168: PoleExtraArm_R
+    401170: PoleExtraLeg_L
+    401172: PoleExtraLeg_R
+    401174: PoleLeg_L
+    401176: PoleLeg_R
+    401178: PoleParentConstraintArm_L
+    401180: PoleParentConstraintArm_LStatic
+    401182: PoleParentConstraintArm_R
+    401184: PoleParentConstraintArm_RStatic
+    401186: PoleParentConstraintLeg_L
+    401188: PoleParentConstraintLeg_LStatic
+    401190: PoleParentConstraintLeg_R
+    401192: PoleParentConstraintLeg_RStatic
+    401194: RootSystem
+    401196: TwistFollowjoint1_M
+    401198: TwistSystem
+    401200: UnTwistEndjoint1_M
+    401202: UnTwistIKjoint1_M
+    401204: UnTwistjoint1_M
+    401206: WagSystem
+    4300000: dragon:body01
+    7400000: fly
+    9500000: //RootNode
+    13700000: dragon:body01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 137
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dragon:body01
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Geometry
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint9_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint9_M/joint10_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint9_M/joint44_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint9_M/joint44_M/joint45_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint43_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint8_M/joint43_M/joint46_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint42_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint7_M/joint42_M/joint47_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint40_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint2_M/joint3_M/joint4_M/joint5_M/joint6_M/joint40_M/joint41_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint13_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint13_M/joint14_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint13_M/joint14_M/joint15_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint13_M/joint14_M/joint15_M/joint16_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint29_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint29_L/joint51_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint29_L/joint51_L/joint50_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint32_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint32_L/joint49_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint32_L/joint49_L/joint48_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint33_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint33_L/joint30_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_L/joint27_L/joint28_L/joint33_L/joint30_L/joint31_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint29_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint29_R/joint51_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint29_R/joint51_R/joint50_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint32_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint32_R/joint49_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint32_R/joint49_R/joint48_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint33_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint33_R/joint30_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint26_R/joint27_R/joint28_R/joint33_R/joint30_R/joint31_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L/joint35_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L/joint35_L/joint36_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L/joint35_L/joint36_L/joint37_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L/joint35_L/joint36_L/joint37_L/joint38_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_L/joint35_L/joint36_L/joint37_L/joint38_L/joint39_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R/joint35_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R/joint35_R/joint36_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R/joint35_R/joint36_R/joint37_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R/joint35_R/joint36_R/joint37_R/joint38_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint11_M/joint12_M/joint34_R/joint35_R/joint36_R/joint37_R/joint38_R/joint39_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint21_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint21_L/joint55_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint21_L/joint55_L/joint54_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint24_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint24_L/joint53_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint24_L/joint53_L/joint52_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint25_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint25_L/joint22_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_L/joint18_L/joint19_L/joint20_L/joint25_L/joint22_L/joint23_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint21_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint21_R/joint55_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint21_R/joint55_R/joint54_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint24_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint24_R/joint53_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint24_R/joint53_R/joint52_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint25_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint25_R/joint22_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/joint1_M/joint17_R/joint18_R/joint19_R/joint20_R/joint25_R/joint22_R/joint23_R
+        weight: 1
+      - path: Group/Main/FitSkeleton
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint44
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint44/joint45
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint43
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint43/joint46
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint42
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint42/joint47
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint40
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint2/joint3/joint4/joint5/joint6/joint40/joint41
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint13
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint29/joint51
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint29/joint51/joint50
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint32
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint32/joint49
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint32/joint49/joint48
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint33
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint33/joint30
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint26/joint27/joint28/joint33/joint30/joint31
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34/joint35
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34/joint35/joint36
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint11/joint12/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint21/joint55
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint21/joint55/joint54
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint24
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint24/joint53
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint24/joint53/joint52
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint25
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint25/joint22
+        weight: 1
+      - path: Group/Main/FitSkeleton/FitSkeletonOffset/joint1/joint17/joint18/joint19/joint20/joint25/joint22/joint23
+        weight: 1
+      - path: Group/Main/MotionSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/AimSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/BendSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/DynamicSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintArm_L/FKIKArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintArm_R/FKIKArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintLeg_L/FKIKLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintLeg_R/FKIKLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_M/FKIKSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKOffsetjoint44_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKOffsetjoint44_M/FKExtrajoint44_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKOffsetjoint44_M/FKExtrajoint44_M/FKjoint44_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKOffsetjoint44_M/FKExtrajoint44_M/FKjoint44_M/FKXjoint44_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKOffsetjoint44_M/FKExtrajoint44_M/FKjoint44_M/FKXjoint44_M/FKXjoint45_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint9_M/FKExtrajoint9_M/FKjoint9_M/FKXjoint9_M/FKXjoint10_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint43_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint43_M/FKExtrajoint43_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint43_M/FKExtrajoint43_M/FKjoint43_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint43_M/FKExtrajoint43_M/FKjoint43_M/FKXjoint43_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint8_M/FKExtrajoint8_M/FKjoint8_M/FKXjoint8_M/FKOffsetjoint43_M/FKExtrajoint43_M/FKjoint43_M/FKXjoint43_M/FKXjoint46_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint42_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint42_M/FKExtrajoint42_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint42_M/FKExtrajoint42_M/FKjoint42_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint42_M/FKExtrajoint42_M/FKjoint42_M/FKXjoint42_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint7_M/FKExtrajoint7_M/FKjoint7_M/FKXjoint7_M/FKOffsetjoint42_M/FKExtrajoint42_M/FKjoint42_M/FKXjoint42_M/FKXjoint47_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint40_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint40_M/FKExtrajoint40_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint40_M/FKExtrajoint40_M/FKjoint40_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint40_M/FKExtrajoint40_M/FKjoint40_M/FKXjoint40_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint2_M/FKExtrajoint2_M/FKjoint2_M/FKXjoint2_M/FKOffsetjoint3_M/FKExtrajoint3_M/FKjoint3_M/FKXjoint3_M/FKOffsetjoint4_M/FKExtrajoint4_M/FKjoint4_M/FKXjoint4_M/FKOffsetjoint5_M/FKExtrajoint5_M/FKjoint5_M/FKXjoint5_M/FKOffsetjoint6_M/FKExtrajoint6_M/FKjoint6_M/FKXjoint6_M/FKOffsetjoint40_M/FKExtrajoint40_M/FKjoint40_M/FKXjoint40_M/FKXjoint41_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L/FKOffsetjoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L/FKOffsetjoint19_L/FKExtrajoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L/FKOffsetjoint19_L/FKExtrajoint19_L/FKjoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L/FKOffsetjoint19_L/FKExtrajoint19_L/FKjoint19_L/FKXjoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_L/FKExtrajoint17_L/FKjoint17_L/FKXjoint17_L/FKOffsetjoint18_L/FKExtrajoint18_L/FKjoint18_L/FKXjoint18_L/FKOffsetjoint19_L/FKExtrajoint19_L/FKjoint19_L/FKXjoint19_L/AlignIKTojoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R/FKOffsetjoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R/FKOffsetjoint19_R/FKExtrajoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R/FKOffsetjoint19_R/FKExtrajoint19_R/FKjoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R/FKOffsetjoint19_R/FKExtrajoint19_R/FKjoint19_R/FKXjoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint1_M/FKOffsetjoint17_R/FKExtrajoint17_R/FKjoint17_R/FKXjoint17_R/FKOffsetjoint18_R/FKExtrajoint18_R/FKjoint18_R/FKXjoint18_R/FKOffsetjoint19_R/FKExtrajoint19_R/FKjoint19_R/FKXjoint19_R/AlignIKTojoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M/FKOffsetjoint15_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M/FKOffsetjoint15_M/FKExtrajoint15_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M/FKOffsetjoint15_M/FKExtrajoint15_M/FKjoint15_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M/FKOffsetjoint15_M/FKExtrajoint15_M/FKjoint15_M/FKXjoint15_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint13_M/FKExtrajoint13_M/FKjoint13_M/FKXjoint13_M/FKOffsetjoint14_M/FKExtrajoint14_M/FKjoint14_M/FKXjoint14_M/FKOffsetjoint15_M/FKExtrajoint15_M/FKjoint15_M/FKXjoint15_M/FKXjoint16_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L/FKOffsetjoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L/FKOffsetjoint28_L/FKExtrajoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L/FKOffsetjoint28_L/FKExtrajoint28_L/FKjoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L/FKOffsetjoint28_L/FKExtrajoint28_L/FKjoint28_L/FKXjoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_L/FKExtrajoint26_L/FKjoint26_L/FKXjoint26_L/FKOffsetjoint27_L/FKExtrajoint27_L/FKjoint27_L/FKXjoint27_L/FKOffsetjoint28_L/FKExtrajoint28_L/FKjoint28_L/FKXjoint28_L/AlignIKTojoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R/FKOffsetjoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R/FKOffsetjoint28_R/FKExtrajoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R/FKOffsetjoint28_R/FKExtrajoint28_R/FKjoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R/FKOffsetjoint28_R/FKExtrajoint28_R/FKjoint28_R/FKXjoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint26_R/FKExtrajoint26_R/FKjoint26_R/FKXjoint26_R/FKOffsetjoint27_R/FKExtrajoint27_R/FKjoint27_R/FKXjoint27_R/FKOffsetjoint28_R/FKExtrajoint28_R/FKjoint28_R/FKXjoint28_R/AlignIKTojoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L/FKOffsetjoint38_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L/FKOffsetjoint38_L/FKExtrajoint38_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L/FKOffsetjoint38_L/FKExtrajoint38_L/FKjoint38_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L/FKOffsetjoint38_L/FKExtrajoint38_L/FKjoint38_L/FKXjoint38_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_L/FKExtrajoint34_L/FKjoint34_L/FKXjoint34_L/FKOffsetjoint35_L/FKExtrajoint35_L/FKjoint35_L/FKXjoint35_L/FKOffsetjoint36_L/FKExtrajoint36_L/FKjoint36_L/FKXjoint36_L/FKOffsetjoint37_L/FKExtrajoint37_L/FKjoint37_L/FKXjoint37_L/FKOffsetjoint38_L/FKExtrajoint38_L/FKjoint38_L/FKXjoint38_L/FKXjoint39_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R/FKOffsetjoint38_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R/FKOffsetjoint38_R/FKExtrajoint38_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R/FKOffsetjoint38_R/FKExtrajoint38_R/FKjoint38_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R/FKOffsetjoint38_R/FKExtrajoint38_R/FKjoint38_R/FKXjoint38_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint12_M/FKOffsetjoint34_R/FKExtrajoint34_R/FKjoint34_R/FKXjoint34_R/FKOffsetjoint35_R/FKExtrajoint35_R/FKjoint35_R/FKXjoint35_R/FKOffsetjoint36_R/FKExtrajoint36_R/FKjoint36_R/FKXjoint36_R/FKOffsetjoint37_R/FKExtrajoint37_R/FKjoint37_R/FKXjoint37_R/FKOffsetjoint38_R/FKExtrajoint38_R/FKjoint38_R/FKXjoint38_R/FKXjoint39_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L/FKOffsetjoint55_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L/FKOffsetjoint55_L/FKExtrajoint55_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L/FKOffsetjoint55_L/FKExtrajoint55_L/FKjoint55_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L/FKOffsetjoint55_L/FKExtrajoint55_L/FKjoint55_L/FKXjoint55_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint21_L/FKExtrajoint21_L/FKjoint21_L/FKXjoint21_L/FKOffsetjoint55_L/FKExtrajoint55_L/FKjoint55_L/FKXjoint55_L/FKXjoint54_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L/FKOffsetjoint53_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L/FKOffsetjoint53_L/FKExtrajoint53_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L/FKOffsetjoint53_L/FKExtrajoint53_L/FKjoint53_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L/FKOffsetjoint53_L/FKExtrajoint53_L/FKjoint53_L/FKXjoint53_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint24_L/FKExtrajoint24_L/FKjoint24_L/FKXjoint24_L/FKOffsetjoint53_L/FKExtrajoint53_L/FKjoint53_L/FKXjoint53_L/FKXjoint52_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L/FKOffsetjoint22_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L/FKOffsetjoint22_L/FKExtrajoint22_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L/FKOffsetjoint22_L/FKExtrajoint22_L/FKjoint22_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L/FKOffsetjoint22_L/FKExtrajoint22_L/FKjoint22_L/FKXjoint22_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_L/FKOffsetjoint20_L/FKExtrajoint20_L/FKjoint20_L/FKXjoint20_L/FKOffsetjoint25_L/FKExtrajoint25_L/FKjoint25_L/FKXjoint25_L/FKOffsetjoint22_L/FKExtrajoint22_L/FKjoint22_L/FKXjoint22_L/FKXjoint23_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R/FKOffsetjoint55_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R/FKOffsetjoint55_R/FKExtrajoint55_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R/FKOffsetjoint55_R/FKExtrajoint55_R/FKjoint55_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R/FKOffsetjoint55_R/FKExtrajoint55_R/FKjoint55_R/FKXjoint55_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint21_R/FKExtrajoint21_R/FKjoint21_R/FKXjoint21_R/FKOffsetjoint55_R/FKExtrajoint55_R/FKjoint55_R/FKXjoint55_R/FKXjoint54_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R/FKOffsetjoint53_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R/FKOffsetjoint53_R/FKExtrajoint53_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R/FKOffsetjoint53_R/FKExtrajoint53_R/FKjoint53_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R/FKOffsetjoint53_R/FKExtrajoint53_R/FKjoint53_R/FKXjoint53_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint24_R/FKExtrajoint24_R/FKjoint24_R/FKXjoint24_R/FKOffsetjoint53_R/FKExtrajoint53_R/FKjoint53_R/FKXjoint53_R/FKXjoint52_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R/FKOffsetjoint22_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R/FKOffsetjoint22_R/FKExtrajoint22_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R/FKOffsetjoint22_R/FKExtrajoint22_R/FKjoint22_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R/FKOffsetjoint22_R/FKExtrajoint22_R/FKjoint22_R/FKXjoint22_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint19_R/FKOffsetjoint20_R/FKExtrajoint20_R/FKjoint20_R/FKXjoint20_R/FKOffsetjoint25_R/FKExtrajoint25_R/FKjoint25_R/FKXjoint25_R/FKOffsetjoint22_R/FKExtrajoint22_R/FKjoint22_R/FKXjoint22_R/FKXjoint23_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L/FKOffsetjoint51_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L/FKOffsetjoint51_L/FKExtrajoint51_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L/FKOffsetjoint51_L/FKExtrajoint51_L/FKjoint51_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L/FKOffsetjoint51_L/FKExtrajoint51_L/FKjoint51_L/FKXjoint51_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint29_L/FKExtrajoint29_L/FKjoint29_L/FKXjoint29_L/FKOffsetjoint51_L/FKExtrajoint51_L/FKjoint51_L/FKXjoint51_L/FKXjoint50_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L/FKOffsetjoint49_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L/FKOffsetjoint49_L/FKExtrajoint49_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L/FKOffsetjoint49_L/FKExtrajoint49_L/FKjoint49_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L/FKOffsetjoint49_L/FKExtrajoint49_L/FKjoint49_L/FKXjoint49_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint32_L/FKExtrajoint32_L/FKjoint32_L/FKXjoint32_L/FKOffsetjoint49_L/FKExtrajoint49_L/FKjoint49_L/FKXjoint49_L/FKXjoint48_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L/FKOffsetjoint30_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L/FKOffsetjoint30_L/FKExtrajoint30_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L/FKOffsetjoint30_L/FKExtrajoint30_L/FKjoint30_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L/FKOffsetjoint30_L/FKExtrajoint30_L/FKjoint30_L/FKXjoint30_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_L/FKOffsetjoint33_L/FKExtrajoint33_L/FKjoint33_L/FKXjoint33_L/FKOffsetjoint30_L/FKExtrajoint30_L/FKjoint30_L/FKXjoint30_L/FKXjoint31_L
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R/FKOffsetjoint51_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R/FKOffsetjoint51_R/FKExtrajoint51_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R/FKOffsetjoint51_R/FKExtrajoint51_R/FKjoint51_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R/FKOffsetjoint51_R/FKExtrajoint51_R/FKjoint51_R/FKXjoint51_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint29_R/FKExtrajoint29_R/FKjoint29_R/FKXjoint29_R/FKOffsetjoint51_R/FKExtrajoint51_R/FKjoint51_R/FKXjoint51_R/FKXjoint50_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R/FKOffsetjoint49_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R/FKOffsetjoint49_R/FKExtrajoint49_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R/FKOffsetjoint49_R/FKExtrajoint49_R/FKjoint49_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R/FKOffsetjoint49_R/FKExtrajoint49_R/FKjoint49_R/FKXjoint49_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint32_R/FKExtrajoint32_R/FKjoint32_R/FKXjoint32_R/FKOffsetjoint49_R/FKExtrajoint49_R/FKjoint49_R/FKXjoint49_R/FKXjoint48_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R/FKOffsetjoint30_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R/FKOffsetjoint30_R/FKExtrajoint30_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R/FKOffsetjoint30_R/FKExtrajoint30_R/FKjoint30_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R/FKOffsetjoint30_R/FKExtrajoint30_R/FKjoint30_R/FKXjoint30_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintTojoint28_R/FKOffsetjoint33_R/FKExtrajoint33_R/FKjoint33_R/FKXjoint33_R/FKOffsetjoint30_R/FKExtrajoint30_R/FKjoint30_R/FKXjoint30_R/FKXjoint31_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M/FKOffsetjoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M/FKOffsetjoint12_M/FKExtrajoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M/FKOffsetjoint12_M/FKExtrajoint12_M/FKjoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M/FKOffsetjoint12_M/FKExtrajoint12_M/FKjoint12_M/FKXjoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetjoint1_M/FKExtrajoint1_M/FKjoint1_M/HipSwingerGroupjoint1_M/FKXjoint1_M/HipSwingerStabalizejoint1_M/FKOffsetjoint11_M/FKExtrajoint11_M/FKjoint11_M/FKXjoint11_M/FKOffsetjoint12_M/FKExtrajoint12_M/FKjoint12_M/FKXjoint12_M/AlignIKTojoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/GlobalSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/HipSwingerOffsetjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/joint1CenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/HipSwingerOffsetjoint1_M/HipSwingerjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKCrv
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKCrv/IKXSpineCurve_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_L/IKExtraArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_L/IKExtraArm_L/IKArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_L/IKExtraArm_L/IKArm_L/IKXArmHandle_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_R/IKExtraArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_R/IKExtraArm_R/IKArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintArm_R/IKExtraArm_R/IKArm_R/IKXArmHandle_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L/IKFootRollLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L/IKFootRollLeg_L/IKRollLegToe_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L/IKFootRollLeg_L/IKRollLegToe_L/IKExtraLegToe_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L/IKFootRollLeg_L/IKRollLegToe_L/IKExtraLegToe_L/IKLegToe_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_L/IKExtraLeg_L/IKLeg_L/IKFootRollLeg_L/IKRollLegToe_L/IKExtraLegToe_L/IKLegToe_L/IKXLegHandle_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R/IKFootRollLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R/IKFootRollLeg_R/IKRollLegToe_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R/IKFootRollLeg_R/IKRollLegToe_R/IKExtraLegToe_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R/IKFootRollLeg_R/IKRollLegToe_R/IKExtraLegToe_R/IKLegToe_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintLeg_R/IKExtraLeg_R/IKLeg_R/IKFootRollLeg_R/IKRollLegToe_R/IKExtraLegToe_R/IKLegToe_R/IKXLegHandle_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKOrientToSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKSpine0AlignTo_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKStiffStartOrientSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKStiffStartOrientSpine_M/IKXSpineLocator1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKXSpineLocator0_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine2_M/IKExtraSpine2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine2_M/IKExtraSpine2_M/IKSpine2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine2_M/IKExtraSpine2_M/IKSpine2_M/IKXSpineLocator2_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKEndJointOrientToSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKSpine4AlignTo_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKSpine4AlignUnTwistToOffset_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKSpine4AlignUnTwistToOffset_M/IKSpine4AlignUnTwistTo_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKStiffEndOrientSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKStiffEndOrientSpine_M/IKXSpineLocator3_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKXSpineHandle_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine4_M/IKExtraSpine4_M/IKSpine4_M/IKXSpineLocator4_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleAimLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleAimLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_L/PoleExtraArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_L/PoleExtraArm_L/PoleArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_R/PoleExtraArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintArm_R/PoleExtraArm_R/PoleArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_L/PoleExtraLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_L/PoleExtraLeg_L/PoleLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_R/PoleExtraLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/PoleParentConstraintLeg_R/PoleExtraLeg_R/PoleLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKdistanceArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKdistanceArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKdistanceLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKdistanceLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Arm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Arm_L/IKmessureLoc2Arm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Arm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Arm_R/IKmessureLoc2Arm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Leg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Leg_L/IKmessureLoc2Leg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Leg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKMessure/IKmessureLoc1Leg_R/IKmessureLoc2Leg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKfake1Spine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKfake1Spine_M/IKFake1UpLocSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKfake1Spine_M/IKfake2Spine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKXjoint11_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKXjoint11_M/IKXjoint12_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint1_M/IKOffsetjoint1_M/IKXjoint1_M/IKXjoint11_M/IKXjoint12_M/IKFKAlignedSpine_M
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L/IKXjoint17_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L/IKXjoint17_L/IKXjoint18_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L/IKXjoint17_L/IKXjoint18_L/IKXjoint19_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L/IKXjoint17_L/IKXjoint18_L/IKXjoint19_L/IKFKAlignedLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_L/IKOffsetjoint17_L/IKXjoint17_L/IKXjoint18_L/PoleAnnotationLeg_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R/IKXjoint17_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R/IKXjoint17_R/IKXjoint18_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R/IKXjoint17_R/IKXjoint18_R/IKXjoint19_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R/IKXjoint17_R/IKXjoint18_R/IKXjoint19_R/IKFKAlignedLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint17_R/IKOffsetjoint17_R/IKXjoint17_R/IKXjoint18_R/PoleAnnotationLeg_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L/IKXjoint26_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L/IKXjoint26_L/IKXjoint27_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L/IKXjoint26_L/IKXjoint27_L/IKXjoint28_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L/IKXjoint26_L/IKXjoint27_L/IKXjoint28_L/IKFKAlignedArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_L/IKOffsetjoint26_L/IKXjoint26_L/IKXjoint27_L/PoleAnnotationArm_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R/IKXjoint26_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R/IKXjoint26_R/IKXjoint27_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R/IKXjoint26_R/IKXjoint27_R/IKXjoint28_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R/IKXjoint26_R/IKXjoint27_R/IKXjoint28_R/IKFKAlignedArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintjoint26_R/IKOffsetjoint26_R/IKXjoint26_R/IKXjoint27_R/PoleAnnotationArm_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/IKParentConstraintArm_LStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/IKParentConstraintArm_RStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/PoleParentConstraintArm_LStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/PoleParentConstraintArm_RStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/PoleParentConstraintLeg_LStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKStatic/PoleParentConstraintLeg_RStatic
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKXjoint54_L
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKXjoint54_R
+        weight: 1
+      - path: Group/Main/MotionSystem/RootSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/RootSystem/joint1Center_M
+        weight: 1
+      - path: Group/Main/MotionSystem/RootSystem/joint1CenterBtwLegs_M
+        weight: 1
+      - path: Group/Main/MotionSystem/RootSystem/joint1CenterBtwLegs_M/joint1CenterBtwLegsOffset_M
+        weight: 1
+      - path: Group/Main/MotionSystem/TwistSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/TwistSystem/TwistFollowjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/TwistSystem/TwistFollowjoint1_M/UnTwistIKjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/TwistSystem/TwistFollowjoint1_M/UnTwistjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/TwistSystem/TwistFollowjoint1_M/UnTwistjoint1_M/UnTwistEndjoint1_M
+        weight: 1
+      - path: Group/Main/MotionSystem/WagSystem
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

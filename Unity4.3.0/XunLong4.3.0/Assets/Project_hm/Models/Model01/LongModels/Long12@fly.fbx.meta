@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 61a2943f5ef4ca24cacb2ff21975fdd2
+timeCreated: 1435048703
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Long12_ring:joint1
+    100004: Long12_ring:joint10
+    100006: Long12_ring:joint11
+    100008: Long12_ring:joint12
+    100010: Long12_ring:joint13
+    100012: Long12_ring:joint14
+    100014: Long12_ring:joint15
+    100016: Long12_ring:joint16
+    100018: Long12_ring:joint17
+    100020: Long12_ring:joint18
+    100022: Long12_ring:joint19
+    100024: Long12_ring:joint2
+    100026: Long12_ring:joint20
+    100028: Long12_ring:joint21
+    100030: Long12_ring:joint22
+    100032: Long12_ring:joint23
+    100034: Long12_ring:joint24
+    100036: Long12_ring:joint25
+    100038: Long12_ring:joint26
+    100040: Long12_ring:joint27
+    100042: Long12_ring:joint28
+    100044: Long12_ring:joint29
+    100046: Long12_ring:joint3
+    100048: Long12_ring:joint30
+    100050: Long12_ring:joint31
+    100052: Long12_ring:joint32
+    100054: Long12_ring:joint33
+    100056: Long12_ring:joint34
+    100058: Long12_ring:joint35
+    100060: Long12_ring:joint36
+    100062: Long12_ring:joint37
+    100064: Long12_ring:joint38
+    100066: Long12_ring:joint4
+    100068: Long12_ring:joint5
+    100070: Long12_ring:joint6
+    100072: Long12_ring:joint7
+    100074: Long12_ring:joint8
+    100076: Long12_ring:joint9
+    100078: Long12_ring:Long12
+    400000: //RootNode
+    400002: Long12_ring:joint1
+    400004: Long12_ring:joint10
+    400006: Long12_ring:joint11
+    400008: Long12_ring:joint12
+    400010: Long12_ring:joint13
+    400012: Long12_ring:joint14
+    400014: Long12_ring:joint15
+    400016: Long12_ring:joint16
+    400018: Long12_ring:joint17
+    400020: Long12_ring:joint18
+    400022: Long12_ring:joint19
+    400024: Long12_ring:joint2
+    400026: Long12_ring:joint20
+    400028: Long12_ring:joint21
+    400030: Long12_ring:joint22
+    400032: Long12_ring:joint23
+    400034: Long12_ring:joint24
+    400036: Long12_ring:joint25
+    400038: Long12_ring:joint26
+    400040: Long12_ring:joint27
+    400042: Long12_ring:joint28
+    400044: Long12_ring:joint29
+    400046: Long12_ring:joint3
+    400048: Long12_ring:joint30
+    400050: Long12_ring:joint31
+    400052: Long12_ring:joint32
+    400054: Long12_ring:joint33
+    400056: Long12_ring:joint34
+    400058: Long12_ring:joint35
+    400060: Long12_ring:joint36
+    400062: Long12_ring:joint37
+    400064: Long12_ring:joint38
+    400066: Long12_ring:joint4
+    400068: Long12_ring:joint5
+    400070: Long12_ring:joint6
+    400072: Long12_ring:joint7
+    400074: Long12_ring:joint8
+    400076: Long12_ring:joint9
+    400078: Long12_ring:Long12
+    4300000: Long12_ring:Long12
+    7400000: fly
+    9500000: //RootNode
+    13700000: Long12_ring:Long12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 83
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Long12_ring:joint1
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3/Long12_ring:joint4
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3/Long12_ring:joint4/Long12_ring:joint5
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3/Long12_ring:joint4/Long12_ring:joint5/Long12_ring:joint6
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3/Long12_ring:joint4/Long12_ring:joint5/Long12_ring:joint6/Long12_ring:joint7
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint2/Long12_ring:joint3/Long12_ring:joint4/Long12_ring:joint5/Long12_ring:joint6/Long12_ring:joint7/Long12_ring:joint8
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint13
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint13/Long12_ring:joint14
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint13/Long12_ring:joint15
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint13/Long12_ring:joint15/Long12_ring:joint16
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint13/Long12_ring:joint15/Long12_ring:joint16/Long12_ring:joint17
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint18
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint18/Long12_ring:joint19
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint11/Long12_ring:joint12/Long12_ring:joint18/Long12_ring:joint19/Long12_ring:joint20
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint23
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint23/Long12_ring:joint24
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint23/Long12_ring:joint25
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint23/Long12_ring:joint25/Long12_ring:joint26
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint23/Long12_ring:joint25/Long12_ring:joint26/Long12_ring:joint27
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint28
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint28/Long12_ring:joint29
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint10/Long12_ring:joint21/Long12_ring:joint22/Long12_ring:joint28/Long12_ring:joint29/Long12_ring:joint30
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint31
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint31/Long12_ring:joint32
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint31/Long12_ring:joint32/Long12_ring:joint33
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint31/Long12_ring:joint32/Long12_ring:joint33/Long12_ring:joint34
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint35
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint35/Long12_ring:joint36
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint35/Long12_ring:joint36/Long12_ring:joint37
+        weight: 1
+      - path: Long12_ring:joint1/Long12_ring:joint9/Long12_ring:joint35/Long12_ring:joint36/Long12_ring:joint37/Long12_ring:joint38
+        weight: 1
+      - path: Long12_ring:Long12
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: 30a212192eb781b48b9522bd0437f0b4
+ShaderImporter:
+  defaultTextures:
+  - _FrontTex: {fileID: 2800000, guid: dbcad63e082b7734997550054003d6ea, type: 3}
+  - _BackTex: {fileID: 2800000, guid: dbcad63e082b7734997550054003d6ea, type: 3}
+  userData: 

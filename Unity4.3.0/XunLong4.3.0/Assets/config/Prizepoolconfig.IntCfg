@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="Arrowbonus" ValueType="vtInt" Value="5" />
+        <ValueItem Key="Poolbottom" ValueType="vtInt" Value="20" />
+        <ValueItem Key="Pooltop" ValueType="vtInt" Value="10000" />
+    </ValueItem>
+</ValueItem>

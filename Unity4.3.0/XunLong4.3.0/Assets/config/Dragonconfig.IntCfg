@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="1" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">小葛伦科</ValueItem>
+    </ValueItem>
+    <ValueItem Key="2" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="2" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">恐怖龙</ValueItem>
+    </ValueItem>
+    <ValueItem Key="3" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="3" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">窒息烟雾</ValueItem>
+    </ValueItem>
+    <ValueItem Key="4" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="4" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">小烈焰狂魔</ValueItem>
+    </ValueItem>
+    <ValueItem Key="5" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="5" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">小双头龙</ValueItem>
+    </ValueItem>
+    <ValueItem Key="6" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="6" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">格拉姆</ValueItem>
+    </ValueItem>
+    <ValueItem Key="7" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="7" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">风里飞</ValueItem>
+    </ValueItem>
+    <ValueItem Key="8" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="8" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">肉耳朵</ValueItem>
+    </ValueItem>
+    <ValueItem Key="9" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="9" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">幻翼</ValueItem>
+    </ValueItem>
+    <ValueItem Key="10" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="10" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">飞煞</ValueItem>
+    </ValueItem>
+    <ValueItem Key="11" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="11" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">格拉夫</ValueItem>
+    </ValueItem>
+    <ValueItem Key="12" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="12" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="name" ValueType="vtString">震海妖</ValueItem>
+    </ValueItem>
+    <ValueItem Key="13" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="13" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="name" ValueType="vtString">云中跃</ValueItem>
+    </ValueItem>
+    <ValueItem Key="14" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="14" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="name" ValueType="vtString">沃尔卡的龙王</ValueItem>
+    </ValueItem>
+    <ValueItem Key="15" ValueType="vtStrContainer">
+        <ValueItem Key="exp" ValueType="vtInt" Value="5" />
+        <ValueItem Key="length" ValueType="vtInt" Value="100" />
+        <ValueItem Key="loot" ValueType="vtInt" Value="15" />
+        <ValueItem Key="score" ValueType="vtInt" Value="5" />
+        <ValueItem Key="speed" ValueType="vtInt" Value="15" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="name" ValueType="vtString">火虫龙</ValueItem>
+    </ValueItem>
+</ValueItem>

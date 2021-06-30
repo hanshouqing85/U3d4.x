@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="101" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="1" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="txt" ValueType="vtString">弩炮1</ValueItem>
+    </ValueItem>
+    <ValueItem Key="2" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="102" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="1" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="txt" ValueType="vtString">弩炮2</ValueItem>
+    </ValueItem>
+    <ValueItem Key="3" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="103" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="1" />
+        <ValueItem Key="type" ValueType="vtInt" Value="1" />
+        <ValueItem Key="txt" ValueType="vtString">弩炮3</ValueItem>
+    </ValueItem>
+    <ValueItem Key="4" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="2" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="txt" ValueType="vtString">道具1</ValueItem>
+    </ValueItem>
+    <ValueItem Key="5" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="3" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="txt" ValueType="vtString">道具2</ValueItem>
+    </ValueItem>
+    <ValueItem Key="6" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="4" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="2" />
+        <ValueItem Key="txt" ValueType="vtString">道具3</ValueItem>
+    </ValueItem>
+    <ValueItem Key="7" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="5" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="3" />
+        <ValueItem Key="txt" ValueType="vtString">鳞片1</ValueItem>
+    </ValueItem>
+    <ValueItem Key="8" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="6" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="3" />
+        <ValueItem Key="txt" ValueType="vtString">鳞片2</ValueItem>
+    </ValueItem>
+    <ValueItem Key="9" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="7" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="3" />
+        <ValueItem Key="txt" ValueType="vtString">鳞片3</ValueItem>
+    </ValueItem>
+    <ValueItem Key="10" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="8" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="3" />
+        <ValueItem Key="txt" ValueType="vtString">鳞片4</ValueItem>
+    </ValueItem>
+    <ValueItem Key="11" ValueType="vtStrContainer">
+        <ValueItem Key="ID" ValueType="vtInt" Value="9" />
+        <ValueItem Key="maxcount" ValueType="vtInt" Value="99" />
+        <ValueItem Key="type" ValueType="vtInt" Value="3" />
+        <ValueItem Key="txt" ValueType="vtString">鳞片5</ValueItem>
+    </ValueItem>
+</ValueItem>

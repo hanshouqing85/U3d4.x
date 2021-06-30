@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="2" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="3" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="4" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="5" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="6" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="7" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="8" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="9" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="10" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="11" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="12" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="13" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="14" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+    <ValueItem Key="15" ValueType="vtStrContainer">
+        <ValueItem Key="item1" ValueType="vtInt" Value="1" />
+        <ValueItem Key="item2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="item3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba1" ValueType="vtInt" Value="20" />
+        <ValueItem Key="proba2" ValueType="vtInt" Value="0" />
+        <ValueItem Key="proba3" ValueType="vtInt" Value="0" />
+        <ValueItem Key="count1" ValueType="vtString">1</ValueItem>
+        <ValueItem Key="count2" ValueType="vtString">0</ValueItem>
+        <ValueItem Key="count3" ValueType="vtString">0</ValueItem>
+    </ValueItem>
+</ValueItem>

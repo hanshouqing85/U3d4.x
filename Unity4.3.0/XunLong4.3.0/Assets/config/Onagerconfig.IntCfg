@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="Bolts" ValueType="vtInt" Value="1" />
+        <ValueItem Key="Ctime" ValueType="vtInt" Value="3" />
+        <ValueItem Key="ID" ValueType="vtInt" Value="101" />
+        <ValueItem Key="squamacount" ValueType="vtInt" Value="0" />
+        <ValueItem Key="squamaid" ValueType="vtInt" Value="0" />
+        <ValueItem Key="validlevel" ValueType="vtInt" Value="1" />
+    </ValueItem>
+    <ValueItem Key="2" ValueType="vtStrContainer">
+        <ValueItem Key="Bolts" ValueType="vtInt" Value="1" />
+        <ValueItem Key="Ctime" ValueType="vtInt" Value="5" />
+        <ValueItem Key="ID" ValueType="vtInt" Value="102" />
+        <ValueItem Key="squamacount" ValueType="vtInt" Value="0" />
+        <ValueItem Key="squamaid" ValueType="vtInt" Value="0" />
+        <ValueItem Key="validlevel" ValueType="vtInt" Value="1" />
+    </ValueItem>
+    <ValueItem Key="3" ValueType="vtStrContainer">
+        <ValueItem Key="Bolts" ValueType="vtInt" Value="1" />
+        <ValueItem Key="Ctime" ValueType="vtInt" Value="10" />
+        <ValueItem Key="ID" ValueType="vtInt" Value="103" />
+        <ValueItem Key="squamacount" ValueType="vtInt" Value="0" />
+        <ValueItem Key="squamaid" ValueType="vtInt" Value="0" />
+        <ValueItem Key="validlevel" ValueType="vtInt" Value="1" />
+    </ValueItem>
+</ValueItem>

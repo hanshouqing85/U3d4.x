@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &148766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 456880}
+  - 114: {fileID: 11481708}
+  m_Layer: 0
+  m_Name: RollerCoaster R 15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &456880
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148766}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.4820013, y: .148590565, z: 2.26348686}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11481708
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 148766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a6ced5148e34c42b5e2eb8c4bce65a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pathName: 
+  pathColor: {r: 1, g: 0, b: .848275661, a: 1}
+  path:
+  - {x: 4.01000023, y: 2.25999999, z: .939999998}
+  - {x: 5.94999981, y: 2, z: 2}
+  - {x: 3.6500001, y: 2.07999992, z: .930000007}
+  - {x: 1.02999997, y: .469999999, z: -1.04999995}
+  - {x: -1.09000003, y: .879999995, z: -.720000029}
+  - {x: -1.87, y: 2.3599999, z: -.400000006}
+  - {x: -.569999993, y: 3.5, z: -.310000002}
+  - {x: 1.26999998, y: 2.98000002, z: -1.44000006}
+  - {x: 1.58000004, y: 1.38, z: -1.04999995}
+  - {x: -.660000026, y: .430000007, z: -1.04999995}
+  - {x: -7.05999994, y: 2, z: -1.04999995}
+  - {x: -2.29999995, y: .180000007, z: -1.07000005}
+  pathVisible: 1
+  cr:
+    pts:
+    - {x: 4.01000023, y: 2.25999999, z: .939999998}
+    - {x: 5.94999981, y: 2, z: 2}
+    - {x: 3.6500001, y: 2.07999992, z: .930000007}
+    - {x: 1.02999997, y: .469999999, z: -1.04999995}
+    - {x: -1.09000003, y: .879999995, z: -.720000029}
+    - {x: -1.87, y: 2.3599999, z: -.400000006}
+    - {x: -.569999993, y: 3.5, z: -.310000002}
+    - {x: 1.26999998, y: 2.98000002, z: -1.44000006}
+    - {x: 1.58000004, y: 1.38, z: -1.04999995}
+    - {x: -.660000026, y: .430000007, z: -1.04999995}
+    - {x: -7.05999994, y: 2, z: -1.04999995}
+    - {x: -2.29999995, y: .180000007, z: -1.07000005}
+    orientToPath: 0
+    orientToPath2d: 0
+  debugluxian: 1
+  flyTime: 15
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 148766}
+  m_IsPrefabParent: 1

@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project_hm\Scripts\Const.cs">
+    <Files>
+      <File FileName="Assets\Project_hm\Scripts\Joysticktest.cs" Line="23" Column="45" />
+      <File FileName="Assets\Project_hm\Scripts\PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project_hm\Scripts\NetMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project_hm\Scripts\Onagerconfig.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project_hm\Scripts\HelloJoyStick.cs" Line="15" Column="21" />
+      <File FileName="Assets\Project_hm\Scripts\HelloXML.cs" Line="1" Column="1" />
+      <File FileName="Assets\Project_hm\Scripts\Const.cs" Line="51" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

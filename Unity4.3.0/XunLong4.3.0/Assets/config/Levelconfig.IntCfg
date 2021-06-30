@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="50" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="2" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="100" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="3" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="150" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="4" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="200" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="5" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="6" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="300" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="7" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="350" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="8" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="400" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="9" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="5" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="50" />
+    </ValueItem>
+    <ValueItem Key="10" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="550" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="11" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="12" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="750" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="13" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="14" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="950" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="15" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="16" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1150" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="17" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="18" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1350" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="19" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="7" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="100" />
+    </ValueItem>
+    <ValueItem Key="20" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="21" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="1850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="22" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="2050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="23" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="2250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="24" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="2450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="25" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="2650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="26" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="2850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="27" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="3050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="28" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="3250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="29" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="9" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="3450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="200" />
+    </ValueItem>
+    <ValueItem Key="30" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="3750" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="31" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="4050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="32" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="4350" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="33" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="4650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="34" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="4950" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="35" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="5250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="36" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="5550" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="37" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="5850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="38" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="6150" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="39" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="11" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="6450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="300" />
+    </ValueItem>
+    <ValueItem Key="40" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="6850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="41" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="7250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="42" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="7650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="43" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="8050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="44" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="8450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="45" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="8850" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="46" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="9250" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="47" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="9650" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="48" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="10050" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="49" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="13" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="10450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="400" />
+    </ValueItem>
+    <ValueItem Key="50" ValueType="vtStrContainer">
+        <ValueItem Key="Dailybolt" ValueType="vtInt" Value="15" />
+        <ValueItem Key="toexp" ValueType="vtInt" Value="10450" />
+        <ValueItem Key="upexp" ValueType="vtInt" Value="0" />
+    </ValueItem>
+</ValueItem>

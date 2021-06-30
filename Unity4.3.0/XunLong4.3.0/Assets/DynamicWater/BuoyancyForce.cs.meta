@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d2a17549550582469cfabfb03bca1d4
+labels:
+- Buoyancy
+- Water
+- Dynamic
+- Ripples
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

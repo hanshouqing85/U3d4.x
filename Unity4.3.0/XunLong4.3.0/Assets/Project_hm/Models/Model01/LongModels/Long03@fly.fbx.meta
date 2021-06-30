@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: a90c47cbe93623940be1699e44671a2e
+timeCreated: 1433994328
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: long03_ring:group1
+    100004: long03_ring:joint1
+    100006: long03_ring:joint10
+    100008: long03_ring:joint11
+    100010: long03_ring:joint12
+    100012: long03_ring:joint13
+    100014: long03_ring:joint14
+    100016: long03_ring:joint15
+    100018: long03_ring:joint16
+    100020: long03_ring:joint17
+    100022: long03_ring:joint18
+    100024: long03_ring:joint19
+    100026: long03_ring:joint2
+    100028: long03_ring:joint20
+    100030: long03_ring:joint21
+    100032: long03_ring:joint22
+    100034: long03_ring:joint23
+    100036: long03_ring:joint24
+    100038: long03_ring:joint25
+    100040: long03_ring:joint26
+    100042: long03_ring:joint27
+    100044: long03_ring:joint28
+    100046: long03_ring:joint29
+    100048: long03_ring:joint3
+    100050: long03_ring:joint30
+    100052: long03_ring:joint31
+    100054: long03_ring:joint32
+    100056: long03_ring:joint33
+    100058: long03_ring:joint34
+    100060: long03_ring:joint35
+    100062: long03_ring:joint36
+    100064: long03_ring:joint37
+    100066: long03_ring:joint38
+    100068: long03_ring:joint39
+    100070: long03_ring:joint4
+    100072: long03_ring:joint40
+    100074: long03_ring:joint41
+    100076: long03_ring:joint42
+    100078: long03_ring:joint43
+    100080: long03_ring:joint44
+    100082: long03_ring:joint45
+    100084: long03_ring:joint46
+    100086: long03_ring:joint47
+    100088: long03_ring:joint48
+    100090: long03_ring:joint49
+    100092: long03_ring:joint5
+    100094: long03_ring:joint50
+    100096: long03_ring:joint51
+    100098: long03_ring:joint52
+    100100: long03_ring:joint53
+    100102: long03_ring:joint54
+    100104: long03_ring:joint55
+    100106: long03_ring:joint56
+    100108: long03_ring:joint57
+    100110: long03_ring:joint58
+    100112: long03_ring:joint59
+    100114: long03_ring:joint6
+    100116: long03_ring:joint60
+    100118: long03_ring:joint61
+    100120: long03_ring:joint62
+    100122: long03_ring:joint63
+    100124: long03_ring:joint64
+    100126: long03_ring:joint65
+    100128: long03_ring:joint66
+    100130: long03_ring:joint67
+    100132: long03_ring:joint68
+    100134: long03_ring:joint69
+    100136: long03_ring:joint7
+    100138: long03_ring:joint70
+    100140: long03_ring:joint71
+    100142: long03_ring:joint72
+    100144: long03_ring:joint8
+    100146: long03_ring:joint9
+    100148: long03_ring:Plane07
+    400000: //RootNode
+    400002: long03_ring:group1
+    400004: long03_ring:joint1
+    400006: long03_ring:joint10
+    400008: long03_ring:joint11
+    400010: long03_ring:joint12
+    400012: long03_ring:joint13
+    400014: long03_ring:joint14
+    400016: long03_ring:joint15
+    400018: long03_ring:joint16
+    400020: long03_ring:joint17
+    400022: long03_ring:joint18
+    400024: long03_ring:joint19
+    400026: long03_ring:joint2
+    400028: long03_ring:joint20
+    400030: long03_ring:joint21
+    400032: long03_ring:joint22
+    400034: long03_ring:joint23
+    400036: long03_ring:joint24
+    400038: long03_ring:joint25
+    400040: long03_ring:joint26
+    400042: long03_ring:joint27
+    400044: long03_ring:joint28
+    400046: long03_ring:joint29
+    400048: long03_ring:joint3
+    400050: long03_ring:joint30
+    400052: long03_ring:joint31
+    400054: long03_ring:joint32
+    400056: long03_ring:joint33
+    400058: long03_ring:joint34
+    400060: long03_ring:joint35
+    400062: long03_ring:joint36
+    400064: long03_ring:joint37
+    400066: long03_ring:joint38
+    400068: long03_ring:joint39
+    400070: long03_ring:joint4
+    400072: long03_ring:joint40
+    400074: long03_ring:joint41
+    400076: long03_ring:joint42
+    400078: long03_ring:joint43
+    400080: long03_ring:joint44
+    400082: long03_ring:joint45
+    400084: long03_ring:joint46
+    400086: long03_ring:joint47
+    400088: long03_ring:joint48
+    400090: long03_ring:joint49
+    400092: long03_ring:joint5
+    400094: long03_ring:joint50
+    400096: long03_ring:joint51
+    400098: long03_ring:joint52
+    400100: long03_ring:joint53
+    400102: long03_ring:joint54
+    400104: long03_ring:joint55
+    400106: long03_ring:joint56
+    400108: long03_ring:joint57
+    400110: long03_ring:joint58
+    400112: long03_ring:joint59
+    400114: long03_ring:joint6
+    400116: long03_ring:joint60
+    400118: long03_ring:joint61
+    400120: long03_ring:joint62
+    400122: long03_ring:joint63
+    400124: long03_ring:joint64
+    400126: long03_ring:joint65
+    400128: long03_ring:joint66
+    400130: long03_ring:joint67
+    400132: long03_ring:joint68
+    400134: long03_ring:joint69
+    400136: long03_ring:joint7
+    400138: long03_ring:joint70
+    400140: long03_ring:joint71
+    400142: long03_ring:joint72
+    400144: long03_ring:joint8
+    400146: long03_ring:joint9
+    400148: long03_ring:Plane07
+    4300000: long03_ring:Plane07
+    7400000: fly
+    9500000: //RootNode
+    13700000: long03_ring:Plane07
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: long03_ring:group1
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint3
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint3/long03_ring:joint4
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint18
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint18/long03_ring:joint19
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint18/long03_ring:joint19/long03_ring:joint20
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint21
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint21/long03_ring:joint22
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint21/long03_ring:joint22/long03_ring:joint23
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint24
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint24/long03_ring:joint25
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint15/long03_ring:joint16/long03_ring:joint17/long03_ring:joint24/long03_ring:joint25/long03_ring:joint26
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint39
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint39/long03_ring:joint40
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint39/long03_ring:joint40/long03_ring:joint41
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint42
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint42/long03_ring:joint43
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint42/long03_ring:joint43/long03_ring:joint44
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint45
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint45/long03_ring:joint46
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint36/long03_ring:joint37/long03_ring:joint38/long03_ring:joint45/long03_ring:joint46/long03_ring:joint47
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61/long03_ring:joint62
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61/long03_ring:joint62/long03_ring:joint63
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61/long03_ring:joint62/long03_ring:joint63/long03_ring:joint64
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61/long03_ring:joint62/long03_ring:joint63/long03_ring:joint64/long03_ring:joint65
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint61/long03_ring:joint62/long03_ring:joint63/long03_ring:joint64/long03_ring:joint65/long03_ring:joint66
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67/long03_ring:joint68
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67/long03_ring:joint68/long03_ring:joint69
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67/long03_ring:joint68/long03_ring:joint69/long03_ring:joint70
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67/long03_ring:joint68/long03_ring:joint69/long03_ring:joint70/long03_ring:joint71
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint2/long03_ring:joint67/long03_ring:joint68/long03_ring:joint69/long03_ring:joint70/long03_ring:joint71/long03_ring:joint72
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint6
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint6/long03_ring:joint7
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint6/long03_ring:joint7/long03_ring:joint8
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint6/long03_ring:joint7/long03_ring:joint8/long03_ring:joint9
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint6/long03_ring:joint7/long03_ring:joint8/long03_ring:joint9/long03_ring:joint10
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint27
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint27/long03_ring:joint28
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint27/long03_ring:joint28/long03_ring:joint29
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint30
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint30/long03_ring:joint31
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint30/long03_ring:joint31/long03_ring:joint32
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint33
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint33/long03_ring:joint34
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint11/long03_ring:joint12/long03_ring:joint13/long03_ring:joint14/long03_ring:joint33/long03_ring:joint34/long03_ring:joint35
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint52
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint52/long03_ring:joint53
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint52/long03_ring:joint53/long03_ring:joint54
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint55
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint55/long03_ring:joint56
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint55/long03_ring:joint56/long03_ring:joint57
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint58
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint58/long03_ring:joint59
+        weight: 1
+      - path: long03_ring:group1/long03_ring:joint1/long03_ring:joint5/long03_ring:joint48/long03_ring:joint49/long03_ring:joint50/long03_ring:joint51/long03_ring:joint58/long03_ring:joint59/long03_ring:joint60
+        weight: 1
+      - path: long03_ring:Plane07
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

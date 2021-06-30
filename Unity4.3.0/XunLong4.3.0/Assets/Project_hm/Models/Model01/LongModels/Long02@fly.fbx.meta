@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 68fb7086c95012142bfbc37281eb28f5
+timeCreated: 1435038358
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: long02_ring:group1
+    100004: long02_ring:joint1
+    100006: long02_ring:joint10
+    100008: long02_ring:joint11
+    100010: long02_ring:joint12
+    100012: long02_ring:joint13
+    100014: long02_ring:joint14
+    100016: long02_ring:joint15
+    100018: long02_ring:joint16
+    100020: long02_ring:joint17
+    100022: long02_ring:joint18
+    100024: long02_ring:joint19
+    100026: long02_ring:joint2
+    100028: long02_ring:joint20
+    100030: long02_ring:joint21
+    100032: long02_ring:joint22
+    100034: long02_ring:joint23
+    100036: long02_ring:joint24
+    100038: long02_ring:joint25
+    100040: long02_ring:joint26
+    100042: long02_ring:joint27
+    100044: long02_ring:joint28
+    100046: long02_ring:joint29
+    100048: long02_ring:joint3
+    100050: long02_ring:joint30
+    100052: long02_ring:joint31
+    100054: long02_ring:joint32
+    100056: long02_ring:joint33
+    100058: long02_ring:joint34
+    100060: long02_ring:joint35
+    100062: long02_ring:joint36
+    100064: long02_ring:joint37
+    100066: long02_ring:joint38
+    100068: long02_ring:joint39
+    100070: long02_ring:joint4
+    100072: long02_ring:joint5
+    100074: long02_ring:joint6
+    100076: long02_ring:joint7
+    100078: long02_ring:joint8
+    100080: long02_ring:joint9
+    100082: long02_ring:Long02
+    400000: //RootNode
+    400002: long02_ring:group1
+    400004: long02_ring:joint1
+    400006: long02_ring:joint10
+    400008: long02_ring:joint11
+    400010: long02_ring:joint12
+    400012: long02_ring:joint13
+    400014: long02_ring:joint14
+    400016: long02_ring:joint15
+    400018: long02_ring:joint16
+    400020: long02_ring:joint17
+    400022: long02_ring:joint18
+    400024: long02_ring:joint19
+    400026: long02_ring:joint2
+    400028: long02_ring:joint20
+    400030: long02_ring:joint21
+    400032: long02_ring:joint22
+    400034: long02_ring:joint23
+    400036: long02_ring:joint24
+    400038: long02_ring:joint25
+    400040: long02_ring:joint26
+    400042: long02_ring:joint27
+    400044: long02_ring:joint28
+    400046: long02_ring:joint29
+    400048: long02_ring:joint3
+    400050: long02_ring:joint30
+    400052: long02_ring:joint31
+    400054: long02_ring:joint32
+    400056: long02_ring:joint33
+    400058: long02_ring:joint34
+    400060: long02_ring:joint35
+    400062: long02_ring:joint36
+    400064: long02_ring:joint37
+    400066: long02_ring:joint38
+    400068: long02_ring:joint39
+    400070: long02_ring:joint4
+    400072: long02_ring:joint5
+    400074: long02_ring:joint6
+    400076: long02_ring:joint7
+    400078: long02_ring:joint8
+    400080: long02_ring:joint9
+    400082: long02_ring:Long02
+    4300000: long02_ring:Long02
+    7400000: fly
+    9500000: //RootNode
+    13700000: long02_ring:Long02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: long02_ring:group1
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3/long02_ring:joint4
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3/long02_ring:joint4/long02_ring:joint5
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3/long02_ring:joint4/long02_ring:joint5/long02_ring:joint6
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3/long02_ring:joint4/long02_ring:joint5/long02_ring:joint6/long02_ring:joint38
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint3/long02_ring:joint4/long02_ring:joint5/long02_ring:joint6/long02_ring:joint38/long02_ring:joint39
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14/long02_ring:joint15
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14/long02_ring:joint15/long02_ring:joint16
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14/long02_ring:joint15/long02_ring:joint16/long02_ring:joint17
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14/long02_ring:joint15/long02_ring:joint16/long02_ring:joint17/long02_ring:joint18
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint14/long02_ring:joint15/long02_ring:joint16/long02_ring:joint17/long02_ring:joint18/long02_ring:joint19
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint20
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint20/long02_ring:joint21
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint20/long02_ring:joint21/long02_ring:joint22
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26/long02_ring:joint27
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26/long02_ring:joint27/long02_ring:joint28
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26/long02_ring:joint27/long02_ring:joint28/long02_ring:joint29
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26/long02_ring:joint27/long02_ring:joint28/long02_ring:joint29/long02_ring:joint30
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint26/long02_ring:joint27/long02_ring:joint28/long02_ring:joint29/long02_ring:joint30/long02_ring:joint31
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint32
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint32/long02_ring:joint33
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint2/long02_ring:joint32/long02_ring:joint33/long02_ring:joint34
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8/long02_ring:joint9
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8/long02_ring:joint9/long02_ring:joint10
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8/long02_ring:joint9/long02_ring:joint10/long02_ring:joint11
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8/long02_ring:joint9/long02_ring:joint10/long02_ring:joint11/long02_ring:joint12
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint7/long02_ring:joint8/long02_ring:joint9/long02_ring:joint10/long02_ring:joint11/long02_ring:joint12/long02_ring:joint13
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint23
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint23/long02_ring:joint24
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint23/long02_ring:joint24/long02_ring:joint25
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint35
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint35/long02_ring:joint36
+        weight: 1
+      - path: long02_ring:group1/long02_ring:joint1/long02_ring:joint35/long02_ring:joint36/long02_ring:joint37
+        weight: 1
+      - path: long02_ring:Long02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

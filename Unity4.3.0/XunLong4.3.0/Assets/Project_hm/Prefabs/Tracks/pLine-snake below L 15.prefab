@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &177338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 445478}
+  - 114: {fileID: 11467822}
+  m_Layer: 0
+  m_Name: pLine-snake below L 15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &445478
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177338}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.91543102, y: -5.7930212, z: 2.27708626}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11467822
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a6ced5148e34c42b5e2eb8c4bce65a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pathName: 
+  pathColor: {r: 1, g: .434482753, b: 0, a: 1}
+  path:
+  - {x: -10.0200005, y: 2.80999994, z: 1.75}
+  - {x: -6.09000015, y: 1.65999997, z: -2.00999999}
+  - {x: -3.27999997, y: 1.65999997, z: -1.96000004}
+  - {x: -.860000014, y: 2.17000008, z: -1.34000003}
+  - {x: 1.05999994, y: 2, z: -.519999981}
+  - {x: 3.36999989, y: 2.5, z: -1.38999999}
+  - {x: 6.67999983, y: 2.29999995, z: -.49000001}
+  - {x: 22.7800007, y: 2, z: 2}
+  pathVisible: 1
+  cr:
+    pts:
+    - {x: -10.0200005, y: 2.80999994, z: 1.75}
+    - {x: -6.09000015, y: 1.65999997, z: -2.00999999}
+    - {x: -3.27999997, y: 1.65999997, z: -1.96000004}
+    - {x: -.860000014, y: 2.17000008, z: -1.34000003}
+    - {x: 1.05999994, y: 2, z: -.519999981}
+    - {x: 3.36999989, y: 2.5, z: -1.38999999}
+    - {x: 6.67999983, y: 2.29999995, z: -.49000001}
+    - {x: 22.7800007, y: 2, z: 2}
+    orientToPath: 0
+    orientToPath2d: 0
+  debugluxian: 1
+  flyTime: 15
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 177338}
+  m_IsPrefabParent: 1

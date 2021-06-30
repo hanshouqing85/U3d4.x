@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ValueItem>
+    <ValueItem Key="1" ValueType="vtStrContainer">
+        <ValueItem Key="Bcount" ValueType="vtInt" Value="10" />
+        <ValueItem Key="Rcount" ValueType="vtInt" Value="1" />
+    </ValueItem>
+</ValueItem>
